@@ -1,0 +1,593 @@
+Name: American Fox Sedge
+Latin Name: Carex Vulpinoidea
+Native?: true
+Height:  1 meter
+Image: American_Fox_Sedge_Plant.jpg
+
+Name: Asperagus
+Latin Name: Asparagus officinalis
+Native?: false
+Height: 2 meters
+Image: Asparagus_Sprouts.jpg
+
+Name: Barnyard Grass
+Latin Name: Echinochloa crus-galli
+Native?: false
+Height: 1.5 meters
+Image: Barnyard_Grass_Leaves.jpg
+
+Name: Bittersweet Nightshade
+Latin Name: Solanum dulcamara
+Native?: false
+Height: Vine
+Image: Bittersweet_Nightshade_Leaves.jpg
+
+Name: Black-Eyed Susan
+Latin Name: Rudbeckia hirta
+Native?: true
+Height: 0.3-1 meter
+Image: Black_Eyed_Susan_Plant.jpg
+
+Name: Birdsfoot Trefoil
+Latin Name: Lotus corniculatus
+Native?: false
+Height: 0.3-0.6 meters
+Image: Birdsfoot_Trefoil_Plant.jpg
+
+Name: Bladder Campion
+Latin Name: Silene vulgaris
+Native?: false
+Height: Up to 0.6 meters
+Image: Bladder_Campion_Flowers.jpg
+
+Name: Blue Vervain
+Latin Name: Verbena hastata
+Native?: true
+Height: 0.6-2 meters
+Image: Blue_Vervain_Flowers.jpg
+
+Name: Burdock
+Latin Name: Arctium minus, Arctium lappa
+Native?: false
+Height: 1.5 meters
+Image: Burdock_Leaves.jpg
+
+Name: Buttercup
+Latin Name: Ranunculus spp.
+Native?: true
+Height: 0.3 meters
+Image: Buttercup_Leaves_Flower.jpg
+
+Name: Canada Thistle
+Latin Name: Cirsium arvense
+Native?: false
+Height: 0.3-1.2 meters
+Image: Canada_Thistle_Plant.jpg
+
+Name: Carpetweed
+Latin Name: Mollugo verticillata
+Native?: false
+Height: Low to the ground in circular mats
+Image: Carpetweed_Plant.jpg
+
+Name: Cattail
+Latin Name: Typha latifolia
+Native?: false
+Height: 1-3 meters
+Image: Cattail_Plant.jpg
+
+Name: Chickweed
+Latin Name: Stellaria media
+Native?: false
+Height: 0.4 meters
+Image: Chickweed_Plant.jpg
+
+Name: Chicory
+Latin Name: Cichorium intybus
+Native?: false
+Height: 0.3-1.5 meters
+Image: Chicory_Plant.jpg
+
+Name: Chinese Bugleweed
+Latin Name: Lycopus lucidus
+Native?: false
+Height: 1 meter
+Image: Chinese_Bugleweed_Flowers.jpg
+
+Name: Common Boneset
+Latin Name: Eupatorium perfoliatum
+Native?: true
+Height: 0.6-1.2 meters
+Image: Common_Boneset_Plant.jpg
+
+Name: Common Lambsquarters
+Latin Name: Chenopodium album
+Native?: true
+Height: Up to 1 meter
+Image: Common_Lambsquarters_Plant.jpg
+
+Name: Common Plantain
+Latin Name: Plantago major
+Native?: false
+Height: 0.1 meters
+Image: Common_Plantain_Plant.jpg
+
+Name: Common Ragweed
+Latin Name: Ambrosia artemisiifolia
+Native?: true
+Height: 0.3-1 meter
+Image: Common_Ragweed_Leaves.jpg
+
+Name: Common Soapwort
+Latin Name: Saponaria officinalis
+Native?: false
+Height: 0.3-0.8 meters
+Image: Common_Soapwort_Plant.jpg
+
+Name: Common Sorrel
+Latin Name: Rumex acetosa
+Native?: false
+Height: 0.6 meters
+Image: Common_Sorrel_Plant.jpg
+
+Name: Common Toadflax
+Latin Name: Linaria vulgaris
+Native?: false
+Height: Up to 1 meter
+Image: Common_Toadflax_Plant.jpg
+
+Name: Common Yarrow
+Latin Name: Achillea millefolium
+Native?: true
+Height: Up to 1 meter
+Image: Common_Yarrow_Plant.jpg
+
+Name: Cow Parsnip
+Latin Name: Heracleum maximum
+Native?: true
+Height: Over 2 meters
+Image: Cow_Parsnip_Plant.jpg
+
+Name: Cow Vetch
+Latin Name: Vicia cracca
+Native?: false
+Height: 1-2 meters
+Image: Cow_Vetch_Flowers.jpg
+
+Name: Creeping Bentgrass
+Latin Name: Agrostis stolonifera
+Native?: false
+Height: 0.3-1 meter
+Image: Creeping_Bentgrass_Plant.jpg
+
+Name: Curly Dock
+Latin Name: Rumex crispus
+Native?: false
+Height: 0.6-1.2 meters
+Image: Curly_Dock_Green_Flowers.jpg
+
+Name: Dame's Rocket
+Latin Name: Hesperis matronalis
+Native?: false
+Height: 1 meter or more
+Image: Dames_Rocket_Plant.jpg
+
+Name: Dark Green Bulrush
+Latin Name: Scirpus atrovirens
+Native?: false
+Height: 0.8-1.2 meters
+Image: Dark_Green_Bulrush_Plant.jpg
+
+Name: Ditch Stonecrop
+Latin Name: Penthorum sedoides
+Native?: true
+Height: 0.3-0.6 meters
+Image: Ditch_Stonecrop_Plant.jpg
+
+Name: English Violet
+Latin Name: Viola odorata
+Native?: false
+Height: 0.2-0.3 meters
+Image: English_Violet_Plant.jpg
+
+Name: Field Bindweed
+Latin Name: Convolvulus arvensis
+Native?: false
+Height: Vine
+Image: Field_Bindweed_Plant.jpg
+
+Name: Forget-Me-Not
+Latin Name: Myosotis scorpioides
+Native?: false
+Height: Up to 0.7 meters
+Image: Forget_Me_Not_Plant.jpg
+
+Name: Foxtail
+Latin Name: Setaria glauca
+Native?: false
+Height: Up to 1 meter
+Image: Foxtail_Plant.jpg
+
+Name: Garden Valerian
+Latin Name: Valeriana officinalis
+Native?: false
+Height: Up to 1.5 meters
+Image: Garden_Valerian_Plant.jpg
+
+Name: Garlic Mustard
+Latin Name: Alliara petiolata
+Native?: false
+Height: 0.6-1 meter
+Image: Garlic_Mustard_Plant.jpg
+
+Name: Giant St John's Wort
+Latin Name: Hypericum ascyron
+Native?: false
+Height: 1-1.5 meters
+Image: Giant_St_Johns_Wort_Plants.jpg
+
+Name: Gloden Button
+Latin Name: Tanacetum vulgare
+Native?: false
+Height: 1-2 meters
+Image: Golden_Buttons_Plant.jpg
+
+Name: Goldenrod
+Latin Name: Solidago canadensis
+Native?: true
+Height: 0.5-1.5 meters
+Image: Goldenrod_Plant.jpg
+
+Name: Great Willowherb
+Latin Name: Epilobium hirsutum
+Native?: false
+Height: 1-1.5 meters
+Image: Great_Willowherb_Plant.jpg
+
+Name: Green Bristle Grass
+Latin Name: Setaria viridis
+Native?: false
+Height: Up to 1 meter
+Image: Green_Bristle_Grass_Plant.jpg
+
+Name: Ground Ivy
+Latin Name: Glechoma hederacea
+Native?: false
+Height: Vine
+Image: Ground_Ivy_Flowers.jpg
+
+Name: Horsetail
+Latin Name: Equisetum arvense
+Native?: true
+Height: 0.3 meters
+Image: Horsetail_Stems.jpg
+
+Name: Italian Ryegrass
+Latin Name: Lolium multiflorum
+Native?: false
+Height: 1 meter
+Image: Italian_Ryegrass_Plant.jpg
+
+Name: Jerusalem Artichokes
+Latin Name: Helianthus tuberosus
+Native?: false
+Height: 1-3 meters
+Image: Jerusalem_Artichoke_Plant.jpg
+
+Name: Joe Pye Weed
+Latin Name: Eutrochium purpureum, Eutrochium maculatum
+Native?: true
+Height: 1-2.5 meters
+Image: Joe_Pye_Weed_Plants.jpg
+
+Name: Johnson Grass
+Latin Name: Sorghum halepense
+Native?: false
+Height: 2 meters
+Image: Johnson_Grass_Plant.jpg
+
+Name: Ladybell
+Latin Name: Adenophora liliifolia
+Native?: false
+Height: 0.6-0.8 meters
+Image: Ladybell_Plants.jpg
+
+Name: Lilac
+Latin Name: Syringa vulgaris
+Native?: false
+Height: 6-7 meters
+Image: Lilac_Flowers.jpg
+
+Name: Lily
+Latin Name: Lilium candidum
+Native?: false
+Height: 1.2 meters
+Image: Lily_Plants.jpg
+
+Name: Meadow Grass
+Latin Name: Poa annua
+Native?: false
+Height: 0.2-0.3 meters
+Image: Meadow_Grass_Plant.jpg
+
+Name: Meadowsweet
+Latin Name: Filipendula ulmaria
+Native?: false
+Height: 1-2 meters
+Image: Meadowsweet_Plants.jpg
+
+Name: Milkweed
+Latin Name: Asclepias syriaca
+Native?: true
+Height: 0.5-1.5 meters
+Image: Milkweed_Plant.jpg
+
+Name: Morning Glory
+Latin Name: Convolvulaceae family
+Native?: false
+Height: Vine
+Image: Morning_Glory_Flowers.jpg
+
+Name: Mullein
+Latin Name: Verbascum thapsus
+Native?: false
+Height: 0.5-3 meters
+Image: Mullein_Plant.jpg
+
+Name: Netted Chain Fern
+Latin Name: Woodwardia areolata
+Native?: true
+Height: Up to 0.6 meters
+Image: Netted_Chain_Fern_Plant.jpg
+
+Name: Oriental Bittersweet
+Latin Name: Celastrus orbiculatus
+Native?: false
+Height: Vine
+Image: Oriental_Bittersweet_Berries.jpg
+
+Name: Oxeye Daisy
+Latin Name: Leucanthemum vulgare
+Native?: false
+Height: 0.3-1 meter
+Image: Oxeye_Daisy_Plants.jpg
+
+Name: Pale Swallow Wort
+Latin Name: Vincetoxicum rossicum
+Native?: false
+Height: 0.6-2 meters
+Image: Pale_Swallow_Wort_Plant.jpg
+
+Name: Peoney
+Latin Name: Paeonia x suffruticosa
+Native?: false
+Height: 0.25-1 meter
+Image: Peony_Plant.jpg
+
+Name: Philadelphia Daisy
+Latin Name: Erigeron philadelphicus
+Native?: true
+Height: 0.2-0.8 meters
+Image: Philadelphia_Daisy_Plant.jpg
+
+Name: Phragmites
+Latin Name: Phragmites australis
+Native?: false
+Height: 2-4 meters
+Image: Phragmites_Leaves.jpg
+
+Name: Purple Loosestrife
+Latin Name: Lythrum salicara
+Native?: false
+Height: 1-2 meters
+Image: Purple_Loosestrife_Plants.jpg
+
+Name: Purpletop Tridens
+Latin Name: Tridens flavus
+Native?: false
+Height: 1-1.5 meters
+Image: Purpletop_Tridens_Plants.jpg
+
+Name: Queen Anne's Lace
+Latin Name: Daucus carota
+Native?: false
+Height: Up to 1 meter
+Image: Queen_Annes_Lace_Plant.jpg
+
+Name: Raspberry
+Latin Name: Rubus strigosus
+Native?: true
+Height: 0.5-2 meters
+Image: Raspberry_Plant.jpg
+
+Name: Redstem Filaree
+Latin Name: Erodium cicutarium
+Native?: false
+Height: 0.1-0.5 meters
+Image: Redstem_Filaree_Plant.jpg
+
+Name: Reed Canary Grass
+Latin Name: Phalaris arundinacea
+Native?: true
+Height: 1.5 meters
+Image: Reed_Canary_Grass_Plants.jpg
+
+Name: Rhubarb
+Latin Name: Rheum x hybridum
+Native?: false
+Height: 1 meter
+Image: Rhubarb_Plant.jpg
+
+Name: Ribwort Plantain
+Latin Name: Plantago lanceolata
+Native?: false
+Height: 0.1-0.4 meters
+Image: Ribwort_Plantain_Plant.jpg
+
+Name: Round Fruited Rush
+Latin Name: Juncus compressus
+Native?: false
+Height: 0.8 meters
+Image: Round_Fruited_Rush_Plants.jpg
+
+Name: Smooth Bedstraw
+Latin Name: Galium mollugo
+Native?: false
+Height: Up to 1 meter
+Image: Smooth_Bedstraw_Leaves.jpg
+
+Name: Smooth Brome
+Latin Name: Bromus inermus
+Native?: false
+Height: Up to 1.5 meters
+Image: Smooth_Brome_Stem.jpg
+
+Name: Soybean
+Latin Name: Glycine max
+Native?: false
+Height: 0.5-1.2 meters
+Image: Soybean_Plant.jpg
+
+Name: Spotted Knapweed
+Latin Name: Centaurea stoebe
+Native?: false
+Height: 0.6-1 meter
+Image: Spotted_Knapweed_Plant.jpg
+
+Name: Spotted Touch-Me-Not
+Latin Name: Impatiens capensis
+Native?: true
+Height: 1-1.5 meters
+Image: Spotted_Touch_Me_Not_Plants.jpg
+
+Name: Softstem Bulrush
+Latin Name: Schoenoplectus tabernaemontani
+Native?: true
+Height: Up to 3 meters
+Image: Softstem_Bulrush_Plants.jpg
+
+Name: Soft Rush
+Latin Name: Juncus effusus
+Native?: true
+Height: Up to 1 meter
+Image: Soft_Rush_Plant.jpg
+
+Name: Stinging Nettle
+Latin Name: Urtica dioica
+Native?: true
+Height: 1-2 meters
+Image: Stinging_Nettle_Plant.jpg
+
+Name: Swamp Loosestrife
+Latin Name: Decodon verticillatus
+Native?: true
+Height: 1 meter
+Image: Swamp_Loosestrife_Plant.jpg
+
+Name: Tall Fescue
+Latin Name: Festuca arundinacea
+Native?: false
+Height: 1.5 meters
+Image: Tall_Fescue_Plant.jpg
+
+Name: Tatarian Honeysuckle
+Latin Name: Lonicera tatarica
+Native?: false
+Height: 3-4 meters
+Image: Tatarian_Honeysuckle_Plant.jpg
+
+Name: Timothy
+Latin Name: Phleum pratense
+Native?: false
+Height: Up to 1 meter
+Image: Timothy_Plant.jpg
+
+Name: Velvet Grass
+Latin Name: Holcus lanatus
+Native?: false
+Height: 1 meter
+Image: Velvet_Grass_Plant.jpg
+
+Name: Virginia Creeper
+Latin Name: Parthenocissus quinquefolia
+Native?: true
+Height: Vine
+Image: Virginia_Creeper_Green_Berries.jpg
+
+Name: Wartweed
+Latin Name: Euphorbia peplus
+Native?: false
+Height: Up to 0.3 meters
+Image: Wartweed_Plant.jpg
+
+Name: White Sweet Clover
+Latin Name: Melilotus alba
+Native?: false
+Height: Up to 2.5 meters
+Image: White_Sweet_Clover_Plants.jpg
+
+Name: White Turtlehead
+Latin Name: Chelone glabra
+Native?: true
+Height: Up to 1 meter
+Image: White_Turtlehead_Plant.jpg
+
+Name: Wild Grape
+Latin Name: Vitis spp.
+Native?: true
+Height: Vine
+Image: Wild_Grape_Plant.jpg
+
+Name: Wild Parsnip
+Latin Name: Pastinaca sativa
+Native?: false
+Height: 0.3-1.5 meters
+Image: Wild_Parsnip_Plant.jpg
+
+Name: Wild Strawberry
+Latin Name: Fragaria vesca
+Native?: true
+Height: Up to 0.1 meters
+Image: Wild_Strawberry_Flowers_Berries.jpg
+
+Name: Winterberry
+Latin Name: Ilex verticillata
+Native?: true
+Height: 1-3 meters
+Image: Winterberry_Plant.jpg
+
+Name: Wormseed
+Latin Name: Dysphania ambrosioides
+Native?: false
+Height: 1.2 meters
+Image: Wormseed_Plants.jpg
+
+Name: Yellow Archangel
+Latin Name: Lamiastrum galeobdolon
+Native?: false
+Height: 0.4-0.8 meters
+Image: Yellow_Archangel_Plant.jpg
+
+Name: Yellow Hawkweed
+Latin Name: Hieracium caespitosum
+Native?: false
+Height: 0.3-0.9 meters
+Image: Yellow_Hawkweed_Plant.jpg
+
+Name: Yellow Iris
+Latin Name: Iris pseudacorus
+Native?: false
+Height: 1-1.5 meters
+Image: Yellow_Iris_Plants.jpg
+
+Name: Yellow Loosestrife
+Latin Name: Lysimachia punctata
+Native?: false
+Height: Up to 1 meter
+Image: Yellow_Loosestrife_Plants.jpg
+
+Name: Yellow Rocket
+Latin Name: Barbarea vulgaris
+Native?: false
+Height: 0.3-0.9 meters
+Image: Yellow_Rocket_Plant.jpg

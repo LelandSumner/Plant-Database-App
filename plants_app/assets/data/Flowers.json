@@ -1,0 +1,446 @@
+[
+    {
+      "plant": "Bittersweet Nightshade",
+      "image_name": "Bittersweet_Nightshade_Flowers_Berries.jpg",
+      "colors": "Purple",
+      "desc": "star shaped, yellow center cone"
+    },
+    {
+      "plant": "Black-Eyed Susan",
+      "image_name": "Black_Eyed_Susan_Flower.jpg",
+      "colors": "Yellow",
+      "desc": "brown center, 5-8cm wide"
+    },
+    {
+      "plant": "Birdsfoot Trefoil",
+      "image_name": "Birdsfoot_Trefoil_Flowers.jpg",
+      "colors": "Yellow",
+      "desc": "pea shaped, in clusters of 2-12"
+    },
+    {
+      "plant": "Bladder Campion",
+      "image_name": "Bladder_Campion_Flowers.jpg",
+      "colors": "White",
+      "desc": "White petals with a white-pink bulb at the base, 1-1.5cm across"
+    },
+    {
+      "plant": "Blue Vervain",
+      "image_name": "Blue_Vervain_Flowers.jpg",
+      "colors": "Purple-Blue",
+      "desc": "at or near top of stem"
+    },
+    {
+      "plant": "Burdock",
+      "image_name": "Burdock_Flowers.jpg",
+      "colors": "Purple",
+      "desc": "Purple flower extending from green-brown Velcro-like ball"
+    },
+    {
+      "plant": "Buttercup",
+      "image_name": "Buttercup_Leaves_Flower.jpg",
+      "colors": "Yellow",
+      "desc": "has five petals, small"
+    },
+    {
+      "plant": "Canada Thistle",
+      "image_name": "Canada_Thistle_Flower.jpg",
+      "colors": "Pink, Purple",
+      "desc": "growing from a bulb with spineless bracts"
+    },
+    {
+      "plant": "Carpetweed",
+      "image_name": "Carpetweed_Flowers.jpg",
+      "colors": "White, Green-White",
+      "desc": "4-5mm across, in clusters of 2-5 where leaf meets stem"
+    },
+    {
+      "plant": "Cattail",
+      "image_name": "Cattail_Heads.jpg",
+      "colors": "Brown",
+      "desc": "sausage-like at top of stem"
+    },
+    {
+      "plant": "Chickweed",
+      "image_name": "Chickweed_Flowers.jpg",
+      "colors": "White",
+      "desc": "small, deeply lobed petals"
+    },
+    {
+      "plant": "Chicory",
+      "image_name": "Chicory_Flower.jpg",
+      "colors": "Blue",
+      "desc": "in clusters of 1-4 on upper stems"
+    },
+    {
+      "plant": "Chinese Bugleweed",
+      "image_name": "Chinese_Bugleweed_Flowers.jpg",
+      "colors": "White",
+      "desc": "small, where stem and leaves meet"
+    },
+    {
+      "plant": "Common Boneset",
+      "image_name": "None.jpg",
+      "colors": "White",
+      "desc": "at ends of stems, in clusters 5-20cm across, each flower 0.5cm"
+    },
+    {
+      "plant": "Common Lambsquarters",
+      "image_name": "Common_Lambsquarters_Flowers.jpg",
+      "colors": "Green",
+      "desc": "small, dense clusters, on spikes"
+    },
+    {
+      "plant": "Common Plantain",
+      "image_name": "None.jpg",
+      "colors": "Green",
+      "desc": "very small"
+    },
+    {
+      "plant": "Common Ragweed",
+      "image_name": "Common_Ragweed_Flower.jpg",
+      "colors": "Green",
+      "desc": "2-3mm, inconspicuous, on terminal branches"
+    },
+    {
+      "plant": "Common Soapwort",
+      "image_name": "Common_Soapwort_Flowers.jpg",
+      "colors": "Pink",
+      "desc": "in groups at the end of the stems, 2cm across"
+    },
+    {
+      "plant": "Common Sorrel",
+      "image_name": "Common_Sorrel_Flowers.jpg",
+      "colors": "Red-Green, Purple",
+      "desc": "Reddish-green to purplish spikes of flowers"
+    },
+    {
+      "plant": "Common Toadflax",
+      "image_name": "Common_Toadflax_Flowers.jpg",
+      "colors": "Yellow",
+      "desc": "has orange center, two-lipped, 2-4cm long, fuzzy throated"
+    },
+    {
+      "plant": "Common Yarrow",
+      "image_name": "Common_Yarrow_Flowers.jpg",
+      "colors": "White, Pink",
+      "desc": "in a flat-topped or rounded cluster at the end of branches"
+    },
+    {
+      "plant": "Cow Parsnip",
+      "image_name": "Cow_Parsnip_Flowers.jpg",
+      "colors": "White",
+      "desc": "small, in umbels 20cm across"
+    },
+    {
+      "plant": "Cow Vetch",
+      "image_name": "Cow_Vetch_Flowers.jpg",
+      "colors": "Purple-Blue",
+      "desc": "in groups of 10-40 at the end of the stem, 8-13mm"
+    },
+    {
+      "plant": "Curly Dock",
+      "image_name": "Curly_Dock_Red_Flowers.jpg",
+      "colors": "Green, Red",
+      "desc": "turns deep red with maturity, in clusters at the end of a long stem"
+    },
+    {
+      "plant": "Dame's Rocket",
+      "image_name": "Dames_Rocket_Flowers.jpg",
+      "colors": "Purple, White, Pink",
+      "desc": "four-petaled forming a mock tube at the base"
+    },
+    {
+      "plant": "Ditch Stonecrop",
+      "image_name": "None.jpg",
+      "colors": "Green",
+      "desc": "on  upper stems, in groups 2-7cm across"
+    },
+    {
+      "plant": "English Violet",
+      "image_name": "English_Violet_Flowers.jpg",
+      "colors": "Purple",
+      "desc": "at the end of a stalk, two petals at the top and three at the bottom"
+    },
+    {
+      "plant": "Field Bindweed",
+      "image_name": "None.jpg",
+      "colors": "White, Pink",
+      "desc": "trumpet-shaped, 1-2.5cm"
+    },
+    {
+      "plant": "Forget-Me-Not",
+      "image_name": "Forget_Me_Not_Flowers.jpg",
+      "colors": "Blue",
+      "desc": "Pink buds, blue flowers with yellow centers and white honey guides, 8-12mm"
+    },
+    {
+      "plant": "Garden Valerian",
+      "image_name": "Garden_Valerian_Flowers.jpg",
+      "colors": "White, Pink",
+      "desc": "scented, in clusters"
+    },
+    {
+      "plant": "Garlic Mustard",
+      "image_name": "Garlic_Mustard_Flowers.jpg",
+      "colors": "White",
+      "desc": "small, four-petaled, clustered at stem ends"
+    },
+    {
+      "plant": "Giant St John's Wort",
+      "image_name": "Giant_St_Johns_Wort_Flowers.jpg",
+      "colors": "Yellow",
+      "desc": "groups of 1-5 flowers 5cm across"
+    },
+    {
+      "plant": "Gloden Button",
+      "image_name": "Golden_Buttons_Flowers.jpg",
+      "colors": "Yellow",
+      "desc": "round"
+    },
+    {
+      "plant": "Goldenrod",
+      "image_name": "Goldenrod_Flowers.jpg",
+      "colors": "Yellow",
+      "desc": "at top of branches in groups of about 14"
+    },
+    {
+      "plant": "Great Willowherb",
+      "image_name": "Great_Willowherb_Flower.jpg",
+      "colors": "Purple",
+      "desc": "small, 2-5cm"
+    },
+    {
+      "plant": "Ground Ivy",
+      "image_name": "Ground_Ivy_Flowers.jpg",
+      "colors": "Purple, Blue",
+      "desc": "in clusters of 2-3, growing from stem"
+    },
+    {
+      "plant": "Jerusalem Artichokes",
+      "image_name": "Jerusalem_Artichoke_Flower.jpg",
+      "colors": "Yellow",
+      "desc": "1-5 flowers at the end of a stem, about 5cm in diameter"
+    },
+    {
+      "plant": "Joe Pye Weed",
+      "image_name": "Joe_Pye_Weed_Flowers.jpg",
+      "colors": "Pink, Purple",
+      "desc": "small, vanilla scented, clusters at top of stem"
+    },
+    {
+      "plant": "Ladybell",
+      "image_name": "Ladybell_Flowers.jpg",
+      "colors": "Blue",
+      "desc": "bell-shaped, hanging, in spikes at the end of the stem"
+    },
+    {
+      "plant": "Lilac",
+      "image_name": "Lilac_Flowers.jpg",
+      "colors": "White, Purple, Pink, Blue",
+      "desc": " in clusters"
+    },
+    {
+      "plant": "Lily",
+      "image_name": "Lily_Flowers.jpg",
+      "colors": "White",
+      "desc": "White with yellow throat"
+    },
+    {
+      "plant": "Meadowsweet",
+      "image_name": "Meadowsweet_Flowers.jpg",
+      "colors": "White",
+      "desc": "puffy, large, in clusters of 20 at top of plant"
+    },
+    {
+      "plant": "Milkweed",
+      "image_name": "Milkweed_Flowers.jpg",
+      "colors": "Purple, Pink",
+      "desc": "globe shaped, in clusters"
+    },
+    {
+      "plant": "Morning Glory",
+      "image_name": "Morning_Glory_Flowers.jpg",
+      "colors": "Pink, White",
+      "desc": "1-2.5cm"
+    },
+    {
+      "plant": "Mullein",
+      "image_name": "Mullein_Flowers.jpg",
+      "colors": "Yellow, Orange, Red-Brown, Purple, Blue, White",
+      "desc": "in spike at the top of the stem"
+    },
+    {
+      "plant": "Oriental Bittersweet",
+      "image_name": "Oriental_Bittersweet_Flowers_Leaves.jpg",
+      "colors": "Green",
+      "desc": "small"
+    },
+    {
+      "plant": "Oxeye Daisy",
+      "image_name": "Oxeye_Daisy_Flower.jpg",
+      "colors": "White",
+      "desc": "yellow center, 20-30 petals, 2-5cm diameter, single flower on end of stem"
+    },
+    {
+      "plant": "Pale Swallow Wort",
+      "image_name": "Pale_Swallow_Wort_Flowers.jpg",
+      "colors": "Pink",
+      "desc": "star shaped, at top of plant"
+    },
+    {
+      "plant": "Peoney",
+      "image_name": "Peony_Flower.jpg",
+      "colors": "Red, Pink, White, Yellow",
+      "desc": "single or double bloom"
+    },
+    {
+      "plant": "Philadelphia Daisy",
+      "image_name": "Philadelphia_Daisy_Flower.jpg",
+      "colors": "Pink, White",
+      "desc": "yellow centers, 2.5cm, up to 400 petals"
+    },
+    {
+      "plant": "Purple Loosestrife",
+      "image_name": "Purple_Loosestrife_Flowers.jpg",
+      "colors": "Red-Purple",
+      "desc": "Reddish purple, clustered in spikes at top of stem, 10-20mm"
+    },
+    {
+      "plant": "Queen Anne's Lace",
+      "image_name": "Queen_Annes_Lace_Flowers.jpg",
+      "colors": "White",
+      "desc": "flat to umbrella shaped clusters with a single dark flower in the center"
+    },
+    {
+      "plant": "Raspberry",
+      "image_name": "None.jpg",
+      "colors": "White",
+      "desc": "small"
+    },
+    {
+      "plant": "Redstem Filaree",
+      "image_name": "Redstem_Filaree_Flowers.jpg",
+      "colors": "Pink, Purple",
+      "desc": "clusters of 2-8"
+    },
+    {
+      "plant": "Ribwort Plantain",
+      "image_name": "Ribwort_Plantain_Flowers.jpg",
+      "colors": "White",
+      "desc": "at the end of a tall stem, blooming from a dark brown spike"
+    },
+    {
+      "plant": "Smooth Bedstraw",
+      "image_name": "Smooth_Bedstraw_Flowers.jpg",
+      "colors": "White",
+      "desc": "clustered, tiny"
+    },
+    {
+      "plant": "Soybean",
+      "image_name": "None.jpg",
+      "colors": "White, Purple",
+      "desc": "small"
+    },
+    {
+      "plant": "Spotted Knapweed",
+      "image_name": "Spotted_Knapweed_Flower.jpg",
+      "colors": "Pink, Purple",
+      "desc": "extend out of small pineapple shape, similar to thistle"
+    },
+    {
+      "plant": "Spotted Touch-Me-Not",
+      "image_name": "Spotted_Touch_Me_Not_Flowers.jpg",
+      "colors": "Orange",
+      "desc": "small, bell shaped, in groups of 1-4"
+    },
+    {
+      "plant": "Stinging Nettle",
+      "image_name": "Stinging_Nettle_Flowers.jpg",
+      "colors": "Green, Brown",
+      "desc": "growing between leaves on stem"
+    },
+    {
+      "plant": "Swamp Loosestrife",
+      "image_name": "Swamp_Loosestrife_Flowers.jpg",
+      "colors": "Purple",
+      "desc": "small, at base of leaves"
+    },
+    {
+      "plant": "Tatarian Honeysuckle",
+      "image_name": "Tatarian_Honeysuckle_Flowers.jpg",
+      "colors": "",
+      "desc": ""
+    },
+    {
+      "plant": "Wartweed",
+      "image_name": "Wartweed_Leaves_Flowers.jpg",
+      "colors": "Green",
+      "desc": "small"
+    },
+    {
+      "plant": "White Sweet Clover",
+      "image_name": "White_Sweet_Clover_Flowers.jpg",
+      "colors": "White",
+      "desc": "clustered on spikes, from top of plant and where leaves meet stem"
+    },
+    {
+      "plant": "White Turtlehead",
+      "image_name": "White_Turtlehead_Flowers.jpg",
+      "colors": "White",
+      "desc": "small, shape suggests a turtle head"
+    },
+    {
+      "plant": "Wild Grape",
+      "image_name": "None.jpg",
+      "colors": "White",
+      "desc": "small"
+    },
+    {
+      "plant": "Wild Parsnip",
+      "image_name": "Wild_Parsnip_Flowers.jpg",
+      "colors": "Yellow",
+      "desc": "small, clustered in an umbrella shape"
+    },
+    {
+      "plant": "Wild Strawberry",
+      "image_name": "Wild_Strawberry_Flowers_Berries.jpg",
+      "colors": "White",
+      "desc": ""
+    },
+    {
+      "plant": "Wormseed",
+      "image_name": "Wormseed_Flowers.jpg",
+      "colors": "green",
+      "desc": "small, in cluster at top of stem"
+    },
+    {
+      "plant": "Yellow Archangel",
+      "image_name": "Yellow_Archangel_Flowers.jpg",
+      "colors": "White, Yellow",
+      "desc": "in whorls on terminal spike"
+    },
+    {
+      "plant": "Yellow Hawkweed",
+      "image_name": "Yellow_Hawkweed_Flower.jpg",
+      "colors": "Yellow",
+      "desc": "similar to dandelion, at top of stalk"
+    },
+    {
+      "plant": "Yellow Iris",
+      "image_name": "Yellow_Iris_Flower.jpg",
+      "colors": "Yellow",
+      "desc": "typical iris form"
+    },
+    {
+      "plant": "Yellow Loosestrife",
+      "image_name": "Yellow_Loosestrife_Flowers.jpg",
+      "colors": "Yellow",
+      "desc": "at top of stem"
+    },
+    {
+      "plant": "Yellow Rocket",
+      "image_name": "Yellow_Rocket_Flowers.jpg",
+      "colors": "Yellow",
+      "desc": "clustered on spikes at end of stems"
+    }
+  ]

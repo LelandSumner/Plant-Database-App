@@ -1,0 +1,386 @@
+[
+    {
+      "plant": "American Fox Sedge",
+      "desc": "Grass"
+    },
+    {
+      "plant": "Asperagus",
+      "desc": "Resembles store bought asparagus, develops alternate branches"
+    },
+    {
+      "plant": "Barnyard Grass",
+      "desc": "Grass"
+    },
+    {
+      "plant": "Bittersweet Nightshade",
+      "desc": "Woody lower stem"
+    },
+    {
+      "plant": "Black-Eyed Susan",
+      "desc": "Green, round"
+    },
+    {
+      "plant": "Birdsfoot Trefoil",
+      "desc": "meters, Green, round"
+    },
+    {
+      "plant": "Bladder Campion",
+      "desc": "Pale Green, hairless"
+    },
+    {
+      "plant": "Blue Vervain",
+      "desc": "White furred, square"
+    },
+    {
+      "plant": "Burdock",
+      "desc": "Green-grey, round"
+    },
+    {
+      "plant": "Buttercup",
+      "desc": "Pale green, round"
+    },
+    {
+      "plant": "Canada Thistle",
+      "desc": "Grooved and erect"
+    },
+    {
+      "plant": "Carpetweed",
+      "desc": "Viny"
+    },
+    {
+      "plant": "Cattail",
+      "desc": "Long, reedy, with spike at the top and brown sausage-like flowerhead below it"
+    },
+    {
+      "plant": "Chickweed",
+      "desc": "Smooth with 1-2 rows of hair"
+    },
+    {
+      "plant": "Chicory",
+      "desc": "Hairy lower, leafless upper, milky sap when cut"
+    },
+    {
+      "plant": "Chinese Bugleweed",
+      "desc": "Green, round"
+    },
+    {
+      "plant": "Common Boneset",
+      "desc": "Covered in long white hairs"
+    },
+    {
+      "plant": "Common Lambsquarters",
+      "desc": "Erect, branching, hairless, vertically ridged, maroon striped"
+    },
+    {
+      "plant": "Common Plantain",
+      "desc": "Long central stalk"
+    },
+    {
+      "plant": "Common Ragweed",
+      "desc": "Long rough hairs"
+    },
+    {
+      "plant": "Common Soapwort",
+      "desc": "Round, hairless"
+    },
+    {
+      "plant": "Common Sorrel",
+      "desc": "Juicy"
+    },
+    {
+      "plant": "Common Toadflax",
+      "desc": "Tough at the base, branching"
+    },
+    {
+      "plant": "Common Yarrow",
+      "desc": "Fine white hairs"
+    },
+    {
+      "plant": "Cow Parsnip",
+      "desc": "Brown-green, round"
+    },
+    {
+      "plant": "Cow Vetch",
+      "desc": "Green at base, brown at tips"
+    },
+    {
+      "plant": "Creeping Bentgrass",
+      "desc": "Grass"
+    },
+    {
+      "plant": "Curly Dock",
+      "desc": "Green"
+    },
+    {
+      "plant": "Dame's Rocket",
+      "desc": "Multiple, upright, hairy"
+    },
+    {
+      "plant": "Dark Green Bulrush",
+      "desc": "Unbranched, more or less erect, green"
+    },
+    {
+      "plant": "Ditch Stonecrop",
+      "desc": "Light reddish-green"
+    },
+    {
+      "plant": "English Violet",
+      "desc": "Leafless"
+    },
+    {
+      "plant": "Field Bindweed",
+      "desc": "Vine, hairless"
+    },
+    {
+      "plant": "Forget-Me-Not",
+      "desc": "Yellow-green, round"
+    },
+    {
+      "plant": "Foxtail",
+      "desc": "Grass"
+    },
+    {
+      "plant": "Garden Valerian",
+      "desc": "Green, round"
+    },
+    {
+      "plant": "Garlic Mustard",
+      "desc": "Green, upright"
+    },
+    {
+      "plant": "Giant St John's Wort",
+      "desc": "Erect, branched in the top 1/3 of the plant, light green, 4-angled"
+    },
+    {
+      "plant": "Goldenrod",
+      "desc": "Upright, branched"
+    },
+    {
+      "plant": "Great Willowherb",
+      "desc": "Hairy"
+    },
+    {
+      "plant": "Green Bristle Grass",
+      "desc": "Grass"
+    },
+    {
+      "plant": "Ground Ivy",
+      "desc": "Square"
+    },
+    {
+      "plant": "Horsetail",
+      "desc": "Erect leafless cone-bearing stem, or vegetative stem with whorls of leafless branches at the nodes"
+    },
+    {
+      "plant": "Italian Ryegrass",
+      "desc": "Grass"
+    },
+    {
+      "plant": "Jerusalem Artichokes",
+      "desc": "Coarse with rough hairs"
+    },
+    {
+      "plant": "Joe Pye Weed",
+      "desc": "Brown"
+    },
+    {
+      "plant": "Johnson Grass",
+      "desc": "Grass"
+    },
+    {
+      "plant": "Ladybell",
+      "desc": "Green, round"
+    },
+    {
+      "plant": "Lilac",
+      "desc": "Grey to grey-brown bark"
+    },
+    {
+      "plant": "Lily",
+      "desc": "Leafy"
+    },
+    {
+      "plant": "Meadow Grass",
+      "desc": "Grass, slightly flattened"
+    },
+    {
+      "plant": "Meadowsweet",
+      "desc": "Brown, woody"
+    },
+    {
+      "plant": "Milkweed",
+      "desc": "Green, round"
+    },
+    {
+      "plant": "Morning Glory",
+      "desc": "Green, round"
+    },
+    {
+      "plant": "Mullein",
+      "desc": "Tall"
+    },
+    {
+      "plant": "Netted Chain Fern",
+      "desc": "Green"
+    },
+    {
+      "plant": "Oriental Bittersweet",
+      "desc": "Silver to reddish brown, woody"
+    },
+    {
+      "plant": "Oxeye Daisy",
+      "desc": "Smooth, hairless"
+    },
+    {
+      "plant": "Philadelphia Daisy",
+      "desc": "Hairy"
+    },
+    {
+      "plant": "Phragmites",
+      "desc": "Grass, hollow"
+    },
+    {
+      "plant": "Purple Loosestrife",
+      "desc": "Reddish-purple, erect"
+    },
+    {
+      "plant": "Purpletop Tridens",
+      "desc": "Grass"
+    },
+    {
+      "plant": "Queen Anne's Lace",
+      "desc": "Green"
+    },
+    {
+      "plant": "Raspberry",
+      "desc": "Red or green with prickles"
+    },
+    {
+      "plant": "Redstem Filaree",
+      "desc": "Reddish, low, hairy"
+    },
+    {
+      "plant": "Reed Canary Grass",
+      "desc": "Grass"
+    },
+    {
+      "plant": "Rhubarb",
+      "desc": "Deep red, pink, or green"
+    },
+    {
+      "plant": "Ribwort Plantain",
+      "desc": "Leafless, silky, hairy"
+    },
+    {
+      "plant": "Round Fruited Rush",
+      "desc": "Grass"
+    },
+    {
+      "plant": "Smooth Bedstraw",
+      "desc": "Upright initially but spread over time, wiry, angled, branched"
+    },
+    {
+      "plant": "Smooth Brome",
+      "desc": "Grass, very thin"
+    },
+    {
+      "plant": "Soybean",
+      "desc": "Woody, not corn"
+    },
+    {
+      "plant": "Spotted Knapweed",
+      "desc": "Erect, slender, wiry, branched"
+    },
+    {
+      "plant": "Spotted Touch-Me-Not",
+      "desc": "Branched"
+    },
+    {
+      "plant": "Softstem Bulrush",
+      "desc": "Grass"
+    },
+    {
+      "plant": "Soft Rush",
+      "desc": "Grass"
+    },
+    {
+      "plant": "Stinging Nettle",
+      "desc": "Green, erect, wiry, SKIN IRRITANT"
+    },
+    {
+      "plant": "Swamp Loosestrife",
+      "desc": "Pinkish, woody at base"
+    },
+    {
+      "plant": "Tall Fescue",
+      "desc": "Grass"
+    },
+    {
+      "plant": "Tatarian Honeysuckle",
+      "desc": "Light brown-tan, scaly bark"
+    },
+    {
+      "plant": "Timothy",
+      "desc": "Grass"
+    },
+    {
+      "plant": "Velvet Grass",
+      "desc": "Grass"
+    },
+    {
+      "plant": "Virginia Creeper",
+      "desc": "Green or woody"
+    },
+    {
+      "plant": "Wartweed",
+      "desc": "Up to 0.3 meters, smooth, hairless"
+    },
+    {
+      "plant": "White Sweet Clover",
+      "desc": "Light green, branching"
+    },
+    {
+      "plant": "White Turtlehead",
+      "desc": "Green, smooth"
+    },
+    {
+      "plant": "Wild Grape",
+      "desc": "Woody"
+    },
+    {
+      "plant": "Wild Parsnip",
+      "desc": "Hairy lower, bare upper, milky sap if cut. DO NOT TOUCH ANY PART OF THIS PLANT"
+    },
+    {
+      "plant": "Wild Strawberry",
+      "desc": "Hairy"
+    },
+    {
+      "plant": "Winterberry",
+      "desc": "Woody"
+    },
+    {
+      "plant": "Wormseed",
+      "desc": "Branching"
+    },
+    {
+      "plant": "Yellow Archangel",
+      "desc": "square"
+    },
+    {
+      "plant": "Yellow Hawkweed",
+      "desc": "Bristly, mostly leafless"
+    },
+    {
+      "plant": "Yellow Iris",
+      "desc": "Round, green"
+    },
+    {
+      "plant": "Yellow Loosestrife",
+      "desc": "Tall"
+    },
+    {
+      "plant": "Yellow Rocket",
+      "desc": "Ribbed, hairless"
+    }
+  ]

@@ -1,0 +1,230 @@
+[
+    {
+      "plant": "American Fox Sedge",
+      "image_name": "American_Fox_Sedge_Seedhead.jpg",
+      "colors": "Red-Brown",
+      "desc": "spiky, at the top of the stem, 5-10cm long"
+    },
+    {
+      "plant": "Asperagus",
+      "image_name": "Asparagus_Growing_Seeds.jpg",
+      "colors": "Green, Red",
+      "desc": "Green berries 1cm across that ripen to red"
+    },
+    {
+      "plant": "Barnyard Grass",
+      "image_name": "Barnyard_Grass_Seedhead.jpg",
+      "colors": "",
+      "desc": "Multiple seed heads, 10-40cm, made of several small spikelets"
+    },
+    {
+      "plant": "Bittersweet Nightshade",
+      "image_name": "Bittersweet_Nightshade_Flowers_Berries.jpg",
+      "colors": "Red, Green",
+      "desc": "egg-shaped berries"
+    },
+    {
+      "plant": "Carpetweed",
+      "image_name": "None.jpg",
+      "colors": "",
+      "desc": "0.5mm, kidney shaped"
+    },
+    {
+      "plant": "Cattail",
+      "image_name": "None.jpg",
+      "colors": "",
+      "desc": "Minute, attached to long fine hairs"
+    },
+    {
+      "plant": "Common Lambsquarters",
+      "image_name": "None.jpg",
+      "colors": "Brown",
+      "desc": "1-2mm"
+    },
+    {
+      "plant": "Common Ragweed",
+      "image_name": "None.jpg",
+      "colors": "",
+      "desc": "Longitudinal ridges with spines"
+    },
+    {
+      "plant": "Cow Vetch",
+      "image_name": "None.jpg",
+      "colors": "",
+      "desc": "In pods similar to peas"
+    },
+    {
+      "plant": "Creeping Bentgrass",
+      "image_name": "None.jpg",
+      "colors": "",
+      "desc": "Occurs in a plume 2-20cm long and 1-12cm wideCreeping_Bentgrass_Seedhead.jpg"
+    },
+    {
+      "plant": "Dark Green Bulrush",
+      "image_name": "Dark_Green_Bulrush_Seedheads.jpg",
+      "colors": "Brown",
+      "desc": "spiky clusters"
+    },
+    {
+      "plant": "Foxtail",
+      "image_name": "Foxtail_Seedhead.jpg",
+      "colors": "Yellow",
+      "desc": "Yellow bristles, spikelets 3mm long, yellow seeds 2-3mm long"
+    },
+    {
+      "plant": "Garlic Mustard",
+      "image_name": "Garlic_Mustard_Seeds.jpg",
+      "colors": "",
+      "desc": "Long, skinny pods"
+    },
+    {
+      "plant": "Green Bristle Grass",
+      "image_name": "Green_Bristle_Grass_Seedhead.jpg",
+      "colors": "",
+      "desc": "Spikelets with bristles at the end of the stems"
+    },
+    {
+      "plant": "Horsetail",
+      "image_name": "Horsetail_Cones.jpg",
+      "colors": "",
+      "desc": "Cones"
+    },
+    {
+      "plant": "Italian Ryegrass",
+      "image_name": "Italian_Ryegrass_Seedhead.jpg",
+      "colors": "",
+      "desc": "10-40cm spike with alternating 1.5-2.5cm spikelets"
+    },
+    {
+      "plant": "Johnson Grass",
+      "image_name": "Johnson_Grass_Seedhead.jpg",
+      "colors": "Purple",
+      "desc": "branching cluster, 15-50cm"
+    },
+    {
+      "plant": "Lilac",
+      "image_name": "None.jpg",
+      "colors": "",
+      "desc": "Three-lobed seed capsule"
+    },
+    {
+      "plant": "Meadow Grass",
+      "image_name": "Meadow_Grass_Seedhead.jpg",
+      "colors": "",
+      "desc": "Panicle 5-7.5cm long with 1-2cm spikelets"
+    },
+    {
+      "plant": "Milkweed",
+      "image_name": "None.jpg",
+      "colors": "Green",
+      "desc": "oval pods"
+    },
+    {
+      "plant": "Oriental Bittersweet",
+      "image_name": "Oriental_Bittersweet_Berries.jpg",
+      "colors": "Red, Yellow",
+      "desc": "Red seeds in yellow pods"
+    },
+    {
+      "plant": "Phragmites",
+      "image_name": "Phragmites_Seedheads.jpg",
+      "colors": "Purple, Gold",
+      "desc": "Purple to gold plumes 15-40cm"
+    },
+    {
+      "plant": "Purpletop Tridens",
+      "image_name": "Purpletop_Tridens_Seedhead.jpg",
+      "colors": "Brown, Red-Purple",
+      "desc": "airy, pyramidal outline, 2mm long"
+    },
+    {
+      "plant": "Raspberry",
+      "image_name": "Raspberry_Berries_Leaves.jpg",
+      "colors": "Red",
+      "desc": "edible berries, 1-1.2cm"
+    },
+    {
+      "plant": "Reed Canary Grass",
+      "image_name": "Reed_Canary_Grass_Seedhead.jpg",
+      "colors": "Light-Green",
+      "desc": "Light green, branching cluster, 7-25cm"
+    },
+    {
+      "plant": "Round Fruited Rush",
+      "image_name": "Round_Fruited_Rush_Seedhead.jpg",
+      "colors": "",
+      "desc": "Capsules holding seeds clustered at top of stem"
+    },
+    {
+      "plant": "Smooth Brome",
+      "image_name": "Smooth_Brome_Seedhead.jpg",
+      "colors": "Brown",
+      "desc": "compact, branched with spikelets"
+    },
+    {
+      "plant": "Soybean",
+      "image_name": "Soybean_Seedpods.jpg",
+      "colors": "",
+      "desc": "curved pods 2-15cm long"
+    },
+    {
+      "plant": "Softstem Bulrush",
+      "image_name": "Softstem_Bulrush_Seedheads.jpg",
+      "colors": "Dark Brown",
+      "desc": "drooping cluster at stem tip"
+    },
+    {
+      "plant": "Soft Rush",
+      "image_name": "Soft_Rush_Seedheads.jpg",
+      "colors": "Yellow, Brown",
+      "desc": "on one side of stem, at top of plant"
+    },
+    {
+      "plant": "Tall Fescue",
+      "image_name": "Tall_Fescue_Seedhead.jpg",
+      "colors": "Green",
+      "desc": "in groups of 3-8, on spikelet at top of plant, 1-1.8cm"
+    },
+    {
+      "plant": "Tatarian Honeysuckle",
+      "image_name": "Tatarian_Honeysuckle_Leaves_Berries.jpg",
+      "colors": "Red",
+      "desc": "berries, 6mm"
+    },
+    {
+      "plant": "Timothy",
+      "image_name": "Timothy_Seedheads.jpg",
+      "colors": "Green",
+      "desc": "dense spikelets"
+    },
+    {
+      "plant": "Velvet Grass",
+      "image_name": "Velvet_Grass_Seedheads.jpg",
+      "colors": "Purple",
+      "desc": "at top of plant"
+    },
+    {
+      "plant": "Virginia Creeper",
+      "image_name": "Virginia_Creeper_Purple_Berries.jpg",
+      "colors": "Green, Purple",
+      "desc": "Greenish berries, small, purple-black when mature"
+    },
+    {
+      "plant": "Wild Grape",
+      "image_name": "Wild_Grape_Leaves_Grapes.jpg",
+      "colors": "Purple",
+      "desc": "grapes"
+    },
+    {
+      "plant": "Wild Strawberry",
+      "image_name": "Wild_Strawberry_Flowers_Berries.jpg",
+      "colors": "Red",
+      "desc": "Strawberries"
+    },
+    {
+      "plant": "Winterberry",
+      "image_name": "Winterberry_Leaves_Berries.jpg",
+      "colors": "Red",
+      "desc": "berry, 1cm across"
+    }
+  ]

@@ -1,0 +1,596 @@
+[
+    {
+      "plant": "American Fox Sedge",
+      "image_name": "None.jpg",
+      "shapes": "LI",
+      "desc": "Long blades from the bottom of the plant"
+    },
+    {
+      "plant": "Asperagus",
+      "image_name": "None.jpg",
+      "shapes": "DL",
+      "desc": "Small, alternating, scale like"
+    },
+    {
+      "plant": "Barnyard Grass",
+      "image_name": "Barnyard_Grass_Leaves.jpg",
+      "shapes": "LI",
+      "desc": "Long 50cm leaves from the bottom of the plant that roll into the stem"
+    },
+    {
+      "plant": "Bittersweet Nightshade",
+      "image_name": "Bittersweet_Nightshade_Leaves.jpg",
+      "shapes": "TL",
+      "desc": "main leaf is 2-10cm long with a smaller leaf below it on each side"
+    },
+    {
+      "plant": "Black-Eyed Susan",
+      "image_name": "None.jpg",
+      "shapes": "OL",
+      "desc": "has a pointed end, irregularly placed, 5-18cm long"
+    },
+    {
+      "plant": "Birdsfoot Trefoil",
+      "image_name": "Birdsfoot_Trefoil_Leaves.jpg",
+      "shapes": "TL",
+      "desc": "at the end of the stem with two more at the base, resembling a bird's foot"
+    },
+    {
+      "plant": "Bladder Campion",
+      "image_name": "Bladder_Campion_Leaves.jpg",
+      "shapes": "LA, OB",
+      "desc": "Pale green to grayish green, opposite, 6cm long and 1.5cm across"
+    },
+    {
+      "plant": "Blue Vervain",
+      "image_name": "Blue_Vervain_Stem_Leaves.jpg",
+      "shapes": "LA",
+      "desc": "Serrated edges, 15cm long and 2.5cm wide"
+    },
+    {
+      "plant": "Burdock",
+      "image_name": "Burdock_Leaves.jpg",
+      "shapes": "HT",
+      "desc": "Large leaves, 50cm long and 40cm wide"
+    },
+    {
+      "plant": "Buttercup",
+      "image_name": "Buttercup_Leaves_Flower.jpg",
+      "shapes": "TL",
+      "desc": "Dark green with three sections, each being toothed"
+    },
+    {
+      "plant": "Canada Thistle",
+      "image_name": "None.jpg",
+      "shapes": "LB",
+      "desc": "spiny margins, alternate, bases surround the stem"
+    },
+    {
+      "plant": "Carpetweed",
+      "image_name": "None.jpg",
+      "shapes": "OL",
+      "desc": "Rounded above and narrow at base, in groups of 3-8, 1-3cm long and <1cm wide"
+    },
+    {
+      "plant": "Cattail",
+      "image_name": "None.jpg",
+      "shapes": "LA",
+      "desc": "Long, attached at the base of the plan"
+    },
+    {
+      "plant": "Chickweed",
+      "image_name": "None.jpg",
+      "shapes": "DL",
+      "desc": "Opposite, rounded to egg shaped, pointed at apex"
+    },
+    {
+      "plant": "Chicory",
+      "image_name": "None.jpg",
+      "shapes": "LA",
+      "desc": "10-32cm long and 2-8cm wide"
+    },
+    {
+      "plant": "Chinese Bugleweed",
+      "image_name": "Chinese_Bugleweed_Leaves.jpg",
+      "shapes": "LI",
+      "desc": "10-15cm long in opposite pairs up the stem"
+    },
+    {
+      "plant": "Common Boneset",
+      "image_name": "Common_Boneset_Leaves_Stem.jpg",
+      "shapes": "AR",
+      "desc": "Light yellow-green, opposite pairs, wrap around the stem, 5-20cm long and 5cm wide"
+    },
+    {
+      "plant": "Common Lambsquarters",
+      "image_name": "None.jpg",
+      "shapes": "LA",
+      "desc": "alternate, 3-10cm long with irregular teeth"
+    },
+    {
+      "plant": "Common Plantain",
+      "image_name": "None.jpg",
+      "shapes": "OL",
+      "desc": "Large, at the base of the plant, with thick stems"
+    },
+    {
+      "plant": "Common Ragweed",
+      "image_name": "Common_Ragweed_Leaves.jpg",
+      "shapes": "CP",
+      "desc": "Hairy to smooth, egg shaped, once or twice compound, alternate, 4-10cm long"
+    },
+    {
+      "plant": "Common Soapwort",
+      "image_name": "Common_Soapwort_Leaves.jpg",
+      "shapes": "OL, LA",
+      "desc": "Opposite, ovate or broadly lanceolate, hairless, three veins, 10cm long and 4.5cm across"
+    },
+    {
+      "plant": "Common Sorrel",
+      "image_name": "Common_Sorrel_Leaves.jpg",
+      "shapes": "AR",
+      "desc": "upper leaves often red, 7-15cm long"
+    },
+    {
+      "plant": "Common Toadflax",
+      "image_name": "None.jpg",
+      "shapes": "LI",
+      "desc": "Narrow, slightly pointed at both ends, crowded along the stem"
+    },
+    {
+      "plant": "Common Yarrow",
+      "image_name": "Common_Yarrow_Leaves.jpg",
+      "shapes": "LA",
+      "desc": "finely divided, 3-15cm long and 2.5cm wide"
+    },
+    {
+      "plant": "Cow Parsnip",
+      "image_name": "Cow_Parsnip_Leaves.jpg",
+      "shapes": "TL",
+      "desc": "Very large"
+    },
+    {
+      "plant": "Cow Vetch",
+      "image_name": "Cow_Vetch_Leaves.jpg",
+      "shapes": "OB",
+      "desc": "Small, pinnate, long, broad, 5-11 pairs of leaflets"
+    },
+    {
+      "plant": "Creeping Bentgrass",
+      "image_name": "None.jpg",
+      "shapes": "LI",
+      "desc": "Smooth, narrow, 1cm wide and 1-15cm long"
+    },
+    {
+      "plant": "Curly Dock",
+      "image_name": "Curly_Dock_Leaves.jpg",
+      "shapes": "OL",
+      "desc": "Long with curly edges, coarse texture"
+    },
+    {
+      "plant": "Dame's Rocket",
+      "image_name": "None.jpg",
+      "shapes": "LA",
+      "desc": "Toothed, long"
+    },
+    {
+      "plant": "Dark Green Bulrush",
+      "image_name": "None.jpg",
+      "shapes": "LI",
+      "desc": "Yellow to dark green, up to 8, alternate, furrowed, flat, rough-edged, 3.5cm long and 2cm wide"
+    },
+    {
+      "plant": "Ditch Stonecrop",
+      "image_name": "Ditch_Stonecrop_Leaves.jpg",
+      "shapes": "OL",
+      "desc": "Alternate, 10cm long and 2cm wide, elliptic or ovate, serrated, with a midvein"
+    },
+    {
+      "plant": "English Violet",
+      "image_name": "None.jpg",
+      "shapes": "HT",
+      "desc": ""
+    },
+    {
+      "plant": "Field Bindweed",
+      "image_name": "Field_Bindweed_Leaves_Stem.jpg",
+      "shapes": "HT",
+      "desc": "Alternate, triangular or heart shaped, 2-6cm long"
+    },
+    {
+      "plant": "Forget-Me-Not",
+      "image_name": "None.jpg",
+      "shapes": "OB, LI",
+      "desc": "fuzzy on both sides"
+    },
+    {
+      "plant": "Foxtail",
+      "image_name": "None.jpg",
+      "shapes": "LI",
+      "desc": "Smooth underside but hairs on upper at base, 30cm long and 4-10mm wide"
+    },
+    {
+      "plant": "Garden Valerian",
+      "image_name": "None.jpg",
+      "shapes": "CP",
+      "desc": "Opposite"
+    },
+    {
+      "plant": "Garlic Mustard",
+      "image_name": "None.jpg",
+      "shapes": "HT",
+      "desc": "Kidney shaped, scalloped edges"
+    },
+    {
+      "plant": "Giant St John's Wort",
+      "image_name": "Giant_St_Johns_Wort_Leaves.jpg",
+      "shapes": "LA, OL",
+      "desc": "Lanceolate-ovate, opposite, smooth edges, 10cm long and 4cm wide"
+    },
+    {
+      "plant": "Gloden Button",
+      "image_name": "None.jpg",
+      "shapes": "CP",
+      "desc": "fernlike, 15cm"
+    },
+    {
+      "plant": "Goldenrod",
+      "image_name": "Goldenrod_Leaves.jpg",
+      "shapes": "OL",
+      "desc": "Narrow, alternate, larger at base of stem, 3-15cm long"
+    },
+    {
+      "plant": "Great Willowherb",
+      "image_name": "None.jpg",
+      "shapes": "LA",
+      "desc": "Long, narrow"
+    },
+    {
+      "plant": "Green Bristle Grass",
+      "image_name": "None.jpg",
+      "shapes": "LI",
+      "desc": "40cm long and 2.5cm wide"
+    },
+    {
+      "plant": "Ground Ivy",
+      "image_name": "Ground_Ivy_Leaves.jpg",
+      "shapes": "HT",
+      "desc": "Rounded, kidney to heart shaped, curving into stalk"
+    },
+    {
+      "plant": "Horsetail",
+      "image_name": "Horsetail_Leaves.jpg",
+      "shapes": "",
+      "desc": ""
+    },
+    {
+      "plant": "Italian Ryegrass",
+      "image_name": "None.jpg",
+      "shapes": "LI",
+      "desc": "Narrowing to tip, 6-20cm long"
+    },
+    {
+      "plant": "Jerusalem Artichokes",
+      "image_name": "None.jpg",
+      "shapes": "OL, HT",
+      "desc": "rough on top, gray hairs underneath, opposite at bottom and alternate at top of stem, 10-25cm long and 3-12cm wide"
+    },
+    {
+      "plant": "Joe Pye Weed",
+      "image_name": "None.jpg",
+      "shapes": "LA",
+      "desc": "Long, serrated, in groups of 5-6"
+    },
+    {
+      "plant": "Johnson Grass",
+      "image_name": "None.jpg",
+      "shapes": "LI",
+      "desc": "Smooth on both sides, white vein in the middle, 4-18cm long"
+    },
+    {
+      "plant": "Ladybell",
+      "image_name": "None.jpg",
+      "shapes": "DL",
+      "desc": "Alternate, serated"
+    },
+    {
+      "plant": "Lilac",
+      "image_name": "Lilac_Leaves.jpg",
+      "shapes": "DL",
+      "desc": "Opposite, shiny upper surface"
+    },
+    {
+      "plant": "Lily",
+      "image_name": "None.jpg",
+      "shapes": "LA",
+      "desc": "In clusters around the stem"
+    },
+    {
+      "plant": "Meadow Grass",
+      "image_name": "None.jpg",
+      "shapes": "LI",
+      "desc": "Vivid green, short and blunt at tips, in leaf year round"
+    },
+    {
+      "plant": "Meadowsweet",
+      "image_name": "None.jpg",
+      "shapes": "LA",
+      "desc": "Toothed, in pairs, 10-20cm long"
+    },
+    {
+      "plant": "Milkweed",
+      "image_name": "None.jpg",
+      "shapes": "OL",
+      "desc": "opposite, 7-20cm long"
+    },
+    {
+      "plant": "Morning Glory",
+      "image_name": "Morning_Glory_Leaves.jpg",
+      "shapes": "HT, LB",
+      "desc": "Heart shaped with lobed bases"
+    },
+    {
+      "plant": "Mullein",
+      "image_name": "Mullein_Leaves.jpg",
+      "shapes": "LA",
+      "desc": "Dense rosette at the ground, spirally arranged, often hairy, alternate up the stem"
+    },
+    {
+      "plant": "Netted Chain Fern",
+      "image_name": "Netted_Chain_Fern_Leaves.jpg",
+      "shapes": "LA",
+      "desc": "Lance-shaped pinnae with small teeth, 50-70cm long"
+    },
+    {
+      "plant": "Oriental Bittersweet",
+      "image_name": "Oriental_Bittersweet_Flowers_Leaves.jpg",
+      "shapes": "OL",
+      "desc": "Rounded to opovate, alternate, toothed margins, 2-12cm long"
+    },
+    {
+      "plant": "Oxeye Daisy",
+      "image_name": "Oxeye_Daisy_Leaves.jpg",
+      "shapes": "LB",
+      "desc": "Smooth, hairless, rounded lobes on margins, 5-12cm long at base of stem and smaller up stem"
+    },
+    {
+      "plant": "Pale Swallow Wort",
+      "image_name": "Pale_Swallow_Wort_Leaves.jpg",
+      "shapes": "OL",
+      "desc": "Larger closer to stem, ellipse or oval, smooth margin, veins underneath, opposite"
+    },
+    {
+      "plant": "Peoney",
+      "image_name": "Peony_Leaves.jpg",
+      "shapes": "CP",
+      "desc": "deeply lobed"
+    },
+    {
+      "plant": "Philadelphia Daisy",
+      "image_name": "None.jpg",
+      "shapes": "HT",
+      "desc": "alternate, simple"
+    },
+    {
+      "plant": "Phragmites",
+      "image_name": "Phragmites_Leaves.jpg",
+      "shapes": "",
+      "desc": "On same side of stem, flat, 20-60cm and 2.5cm wide"
+    },
+    {
+      "plant": "Purple Loosestrife",
+      "image_name": "Purple_Loosestrife_Leaves.jpg",
+      "shapes": "TL",
+      "desc": "Opposite pairs or threes, smooth edged, 3-10cm"
+    },
+    {
+      "plant": "Purpletop Tridens",
+      "image_name": "Purpletop_Tridens_Leaves.jpg",
+      "shapes": "LI",
+      "desc": "Alternate, shallowly grooved or flat, rough to the touch, 45cm long and 0.1cm wide"
+    },
+    {
+      "plant": "Queen Anne's Lace",
+      "image_name": "Queen_Annes_Lace_Leaves.jpg",
+      "shapes": "LB",
+      "desc": "Alternate, triangular, 15cm long"
+    },
+    {
+      "plant": "Raspberry",
+      "image_name": "Raspberry_Berries_Leaves.jpg",
+      "shapes": "CP",
+      "desc": "Alternate, 3-7 leaflets"
+    },
+    {
+      "plant": "Redstem Filaree",
+      "image_name": "None.jpg",
+      "shapes": "LB",
+      "desc": "Deeply cut, nearly to midvein"
+    },
+    {
+      "plant": "Reed Canary Grass",
+      "image_name": "Reed_Canary_Grass_Leaves.jpg",
+      "shapes": "LI",
+      "desc": "Green, attached to stem by a collar, 10-35cm long"
+    },
+    {
+      "plant": "Rhubarb",
+      "image_name": "Rhubarb_Leaves.jpg",
+      "shapes": "HT",
+      "desc": "large, dark"
+    },
+    {
+      "plant": "Ribwort Plantain",
+      "image_name": "Ribwort_Plantain_Leaves.jpg",
+      "shapes": "LA",
+      "desc": "toothed, 3-5 parallel veins, 2-30cm long and 0.5-3.5cm wide"
+    },
+    {
+      "plant": "Round Fruited Rush",
+      "image_name": "None.jpg",
+      "shapes": "LI",
+      "desc": "Flat, narrow, 5-35cm long"
+    },
+    {
+      "plant": "Smooth Bedstraw",
+      "image_name": "Smooth_Bedstraw_Leaves.jpg",
+      "shapes": "LI",
+      "desc": "Bright green, linear, whorled, 1-2.5cm long"
+    },
+    {
+      "plant": "Smooth Brome",
+      "image_name": "Smooth_Brome_Leaves.jpg",
+      "shapes": "LI",
+      "desc": "Flat with a raised midrib underneath, 20-35cm long and 1cm wide"
+    },
+    {
+      "plant": "Soybean",
+      "image_name": "Soybean_Leaves.jpg",
+      "shapes": "TL, OL, LA",
+      "desc": "alternate, 2-20cm long"
+    },
+    {
+      "plant": "Spotted Knapweed",
+      "image_name": "Spotted_Knapweed_Leaves.jpg",
+      "shapes": "LB",
+      "desc": "Gray-green, alternate, pinnate with many lobes, rough bristles on edges, 15cm long"
+    },
+    {
+      "plant": "Spotted Touch-Me-Not",
+      "image_name": "Spotted_Touch_Me_Not_Leaves.jpg",
+      "shapes": "OL",
+      "desc": "Egg shaped, wide teeth, 10cm long"
+    },
+    {
+      "plant": "Softstem Bulrush",
+      "image_name": "None.jpg",
+      "shapes": "LI",
+      "desc": "small at base"
+    },
+    {
+      "plant": "Soft Rush",
+      "image_name": "None.jpg",
+      "shapes": "LI",
+      "desc": "Long, brown, at base, narrow, 15cm long"
+    },
+    {
+      "plant": "Stinging Nettle",
+      "image_name": "Stinging_Nettle_Leaves.jpg",
+      "shapes": "DL",
+      "desc": "Stinging hairs on underside, opposite, deeply toothed, 3-15cm long"
+    },
+    {
+      "plant": "Swamp Loosestrife",
+      "image_name": "None.jpg",
+      "shapes": "LA",
+      "desc": "Hairy, opposite, 20cm long"
+    },
+    {
+      "plant": "Tall Fescue",
+      "image_name": "None.jpg",
+      "shapes": "LI",
+      "desc": "Attached to stem by white collar, 10-60cm long"
+    },
+    {
+      "plant": "Tatarian Honeysuckle",
+      "image_name": "Tatarian_Honeysuckle_Leaves_Berries.jpg",
+      "shapes": "DL",
+      "desc": "Opposite, egg shaped, hairy"
+    },
+    {
+      "plant": "Timothy",
+      "image_name": "Timothy_Leaves.jpg",
+      "shapes": "LA",
+      "desc": "Rolled at bud, sheath fused around stem, hairless, 43cm long and 1.5cm wide"
+    },
+    {
+      "plant": "Velvet Grass",
+      "image_name": "Velvet_Grass_Leaves.jpg",
+      "shapes": "LI",
+      "desc": "Only a few, covered in soft hairs, 4-20cm long and narrow"
+    },
+    {
+      "plant": "Virginia Creeper",
+      "image_name": "Virginia_Creeper_Leaves.jpg",
+      "shapes": "CP",
+      "desc": "in groups of 5, toothed margins, alternate, 3-20cm across"
+    },
+    {
+      "plant": "Wartweed",
+      "image_name": "Wartweed_Leaves_Flowers.jpg",
+      "shapes": "OL",
+      "desc": "Oval-acute, smooth margin, 1-3cm long"
+    },
+    {
+      "plant": "White Sweet Clover",
+      "image_name": "White_Sweet_Clover_Leaves.jpg",
+      "shapes": "OL",
+      "desc": "alternate, trifoliate"
+    },
+    {
+      "plant": "White Turtlehead",
+      "image_name": "White_Turtlehead_Leaves.jpg",
+      "shapes": "LA",
+      "desc": "Narrow, spiked, 20cm long"
+    },
+    {
+      "plant": "Wild Grape",
+      "image_name": "Wild_Grape_Leaves_Grapes.jpg",
+      "shapes": "HT",
+      "desc": "alternate, long tips"
+    },
+    {
+      "plant": "Wild Parsnip",
+      "image_name": "Wild_Parsnip_Leaves.jpg",
+      "shapes": "OL",
+      "desc": "Broad, hairless, ovate, paired"
+    },
+    {
+      "plant": "Wild Strawberry",
+      "image_name": "Wild_Strawberry_Leaves.jpg",
+      "shapes": "TL, OL",
+      "desc": "Toothed margins, smooth, trifoliate"
+    },
+    {
+      "plant": "Winterberry",
+      "image_name": "Winterberry_Leaves_Berries.jpg",
+      "shapes": "OL",
+      "desc": "Dark green, alternate, serrated, 5-8cm long and 1.5-3.5cm wide"
+    },
+    {
+      "plant": "Wormseed",
+      "image_name": "Wormseed_Leaves.jpg",
+      "shapes": "OB, LA",
+      "desc": "12cm long"
+    },
+    {
+      "plant": "Yellow Archangel",
+      "image_name": "Yellow_Archangel_Leaves.jpg",
+      "shapes": "OL",
+      "desc": "Paired, opposite, large broad oval, toothed margins, underside often purplish"
+    },
+    {
+      "plant": "Yellow Hawkweed",
+      "image_name": "Yellow_Hawkweed_Leaves.jpg",
+      "shapes": "OL",
+      "desc": "Long, narrow, hairy, mostly at base with some growing on stems"
+    },
+    {
+      "plant": "Yellow Iris",
+      "image_name": "None.jpg",
+      "shapes": "LA",
+      "desc": "Erect, 90cm long and 3cm wide"
+    },
+    {
+      "plant": "Yellow Loosestrife",
+      "image_name": "Yellow_Loosestrife_Leaves.jpg",
+      "shapes": "OL, LA",
+      "desc": "Whorled or opposite, ovate-lanceolate, fine hairs underneath"
+    },
+    {
+      "plant": "Yellow Rocket",
+      "image_name": "Yellow_Rocket_Leaves.jpg",
+      "shapes": "OL",
+      "desc": "Deep green, fairly thick"
+    }
+  ]

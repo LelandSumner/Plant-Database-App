@@ -1,0 +1,3 @@
+This is a django database I originally had set up to hold the data. Once I figured out I couldn't access the data offline, I copied all the json data and stored it locally. (this may also explain why some of the code is messy and could very easily be done better)
+
+There is also a fill.py in the main branch of the database which I used to fill the database with the original data.

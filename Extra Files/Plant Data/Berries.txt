@@ -1,0 +1,190 @@
+Plant: American Fox Sedge
+Image: "American_Fox_Sedge_Seedhead.jpg"
+Colors: Red-Brown
+Description: spiky, at the top of the stem, 5-10cm long
+
+Plant: Asperagus
+Image: "Asparagus_Growing_Seeds.jpg"
+Colors: Green, Red
+Description: Green berries 1cm across that ripen to red
+
+Plant: Barnyard Grass
+Image: "Barnyard_Grass_Seedhead.jpg"
+Colors: 
+Description: Multiple seed heads, 10-40cm, made of several small spikelets
+
+Plant: Bittersweet Nightshade
+Image: "Bittersweet_Nightshade_Flowers_Berries.jpg"
+Colors: Red, Green
+Description: egg-shaped berries
+
+Plant: Carpetweed
+Image: "None.jpg"
+Colors: 
+Description: 0.5mm, kidney shaped
+
+Plant: Cattail
+Image: "None.jpg"
+Colors: 
+Description: Minute, attached to long fine hairs
+
+Plant: Common Lambsquarters
+Image: "None.jpg"
+Colors: Brown
+Description: 1-2mm
+
+Plant: Common Ragweed
+Image: "None.jpg"
+Colors: 
+Description: Longitudinal ridges with spines
+
+Plant: Cow Vetch
+Image: "None.jpg"
+Colors: 
+Description: In pods similar to peas
+
+Plant: Creeping Bentgrass
+Image: "None.jpg"
+Colors: 
+Description: Occurs in a plume 2-20cm long and 1-12cm wideCreeping_Bentgrass_Seedhead.jpg
+
+Plant: Dark Green Bulrush
+Image: "Dark_Green_Bulrush_Seedheads.jpg"
+Colors: Brown
+Description: spiky clusters
+
+Plant: Foxtail
+Image: "Foxtail_Seedhead.jpg"
+Colors: Yellow
+Description: Yellow bristles, spikelets 3mm long, yellow seeds 2-3mm long
+
+Plant: Garlic Mustard
+Image: "Garlic_Mustard_Seeds.jpg"
+Colors: 
+Description: Long, skinny pods
+
+Plant: Green Bristle Grass
+Image: "Green_Bristle_Grass_Seedhead.jpg"
+Colors: 
+Description: Spikelets with bristles at the end of the stems
+
+Plant: Horsetail
+Image: "Horsetail_Cones.jpg"
+Colors: 
+Description: Cones
+
+Plant: Italian Ryegrass
+Image: "Italian_Ryegrass_Seedhead.jpg"
+Colors: 
+Description: 10-40cm spike with alternating 1.5-2.5cm spikelets
+
+Plant: Johnson Grass
+Image: "Johnson_Grass_Seedhead.jpg"
+Colors: Purple
+Description: branching cluster, 15-50cm
+
+Plant: Lilac
+Image: "None.jpg"
+Colors: 
+Description: Three-lobed seed capsule
+
+Plant: Meadow Grass
+Image: "Meadow_Grass_Seedhead.jpg"
+Colors: 
+Description: Panicle 5-7.5cm long with 1-2cm spikelets
+
+Plant: Milkweed
+Image: "None.jpg"
+Colors: Green
+Description: oval pods
+
+Plant: Oriental Bittersweet
+Image: "Oriental_Bittersweet_Berries.jpg"
+Colors: Red, Yellow
+Description: Red seeds in yellow pods
+
+Plant: Phragmites
+Image: "Phragmites_Seedheads.jpg"
+Colors: Purple, Gold
+Description: Purple to gold plumes 15-40cm
+
+Plant: Purpletop Tridens
+Image: "Purpletop_Tridens_Seedhead.jpg"
+Colors: Brown, Red-Purple
+Description: airy, pyramidal outline, 2mm long
+
+Plant: Raspberry
+Image: "Raspberry_Berries_Leaves.jpg"
+Colors: Red
+Description: edible berries, 1-1.2cm
+
+Plant: Reed Canary Grass
+Image: "Reed_Canary_Grass_Seedhead.jpg"
+Colors: Light-Green
+Description: Light green, branching cluster, 7-25cm
+
+Plant: Round Fruited Rush
+Image: "Round_Fruited_Rush_Seedhead.jpg"
+Colors: 
+Description: Capsules holding seeds clustered at top of stem
+
+Plant: Smooth Brome
+Image: "Smooth_Brome_Seedhead.jpg"
+Colors: Brown
+Description: compact, branched with spikelets
+
+Plant: Soybean
+Image: "Soybean_Seedpods.jpg"
+Colors: 
+Description: curved pods 2-15cm long
+
+Plant: Softstem Bulrush
+Image: "Softstem_Bulrush_Seedheads.jpg"
+Colors: Dark Brown
+Description: drooping cluster at stem tip
+
+Plant: Soft Rush
+Image: "Soft_Rush_Seedheads.jpg"
+Colors: Yellow, Brown
+Description: on one side of stem, at top of plant
+
+Plant: Tall Fescue
+Image: "Tall_Fescue_Seedhead.jpg"
+Colors: Green
+Description: in groups of 3-8, on spikelet at top of plant, 1-1.8cm
+
+Plant: Tatarian Honeysuckle
+Image: "Tatarian_Honeysuckle_Leaves_Berries.jpg"
+Colors: Red
+Description: berries, 6mm
+
+Plant: Timothy
+Image: "Timothy_Seedheads.jpg"
+Colors: Green
+Description: dense spikelets
+
+Plant: Velvet Grass
+Image: "Velvet_Grass_Seedheads.jpg"
+Colors: Purple
+Description: at top of plant
+
+Plant: Virginia Creeper
+Image: "Virginia_Creeper_Purple_Berries.jpg"
+Colors: Green, Purple
+Description: Greenish berries, small, purple-black when mature
+
+Plant: Wild Grape
+Image: "Wild_Grape_Leaves_Grapes.jpg"
+Colors: Purple
+Description: grapes
+
+Plant: Wild Strawberry
+Image: "Wild_Strawberry_Flowers_Berries.jpg"
+Colors: Red
+Description: Strawberries
+
+Plant: Winterberry
+Image: "Winterberry_Leaves_Berries.jpg"
+Colors: Red
+Description: berry, 1cm across
+

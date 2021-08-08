@@ -1,0 +1,695 @@
+[
+    {
+      "name": "American Fox Sedge",
+      "latin_name": "Carex Vulpinoidea",
+      "isNative": true,
+      "height": "1 meter",
+      "image_name": "American_Fox_Sedge_Plant.jpg"
+    },
+    {
+      "name": "Asperagus",
+      "latin_name": "Asparagus officinalis",
+      "isNative": false,
+      "height": "2 meters",
+      "image_name": "Asparagus_Sprouts.jpg"
+    },
+    {
+      "name": "Barnyard Grass",
+      "latin_name": "Echinochloa crus-galli",
+      "isNative": false,
+      "height": "1.5 meters",
+      "image_name": "Barnyard_Grass_Leaves.jpg"
+    },
+    {
+      "name": "Bittersweet Nightshade",
+      "latin_name": "Solanum dulcamara",
+      "isNative": false,
+      "height": "Vine",
+      "image_name": "Bittersweet_Nightshade_Leaves.jpg"
+    },
+    {
+      "name": "Black-Eyed Susan",
+      "latin_name": "Rudbeckia hirta",
+      "isNative": true,
+      "height": "0.3-1 meter",
+      "image_name": "Black_Eyed_Susan_Plant.jpg"
+    },
+    {
+      "name": "Birdsfoot Trefoil",
+      "latin_name": "Lotus corniculatus",
+      "isNative": false,
+      "height": "0.3-0.6 meters",
+      "image_name": "Birdsfoot_Trefoil_Plant.jpg"
+    },
+    {
+      "name": "Bladder Campion",
+      "latin_name": "Silene vulgaris",
+      "isNative": false,
+      "height": "Up to 0.6 meters",
+      "image_name": "Bladder_Campion_Flowers.jpg"
+    },
+    {
+      "name": "Blue Vervain",
+      "latin_name": "Verbena hastata",
+      "isNative": true,
+      "height": "0.6-2 meters",
+      "image_name": "Blue_Vervain_Flowers.jpg"
+    },
+    {
+      "name": "Burdock",
+      "latin_name": "Arctium minus, Arctium lappa",
+      "isNative": false,
+      "height": "1.5 meters",
+      "image_name": "Burdock_Leaves.jpg"
+    },
+    {
+      "name": "Buttercup",
+      "latin_name": "Ranunculus spp.",
+      "isNative": true,
+      "height": "0.3 meters",
+      "image_name": "Buttercup_Leaves_Flower.jpg"
+    },
+    {
+      "name": "Canada Thistle",
+      "latin_name": "Cirsium arvense",
+      "isNative": false,
+      "height": "0.3-1.2 meters",
+      "image_name": "Canada_Thistle_Plant.jpg"
+    },
+    {
+      "name": "Carpetweed",
+      "latin_name": "Mollugo verticillata",
+      "isNative": false,
+      "height": "Low to the ground in circular mats",
+      "image_name": "Carpetweed_Plant.jpg"
+    },
+    {
+      "name": "Cattail",
+      "latin_name": "Typha latifolia",
+      "isNative": false,
+      "height": "1-3 meters",
+      "image_name": "Cattail_Plant.jpg"
+    },
+    {
+      "name": "Chickweed",
+      "latin_name": "Stellaria media",
+      "isNative": false,
+      "height": "0.4 meters",
+      "image_name": "Chickweed_Plant.jpg"
+    },
+    {
+      "name": "Chicory",
+      "latin_name": "Cichorium intybus",
+      "isNative": false,
+      "height": "0.3-1.5 meters",
+      "image_name": "Chicory_Plant.jpg"
+    },
+    {
+      "name": "Chinese Bugleweed",
+      "latin_name": "Lycopus lucidus",
+      "isNative": false,
+      "height": "1 meter",
+      "image_name": "Chinese_Bugleweed_Flowers.jpg"
+    },
+    {
+      "name": "Common Boneset",
+      "latin_name": "Eupatorium perfoliatum",
+      "isNative": true,
+      "height": "0.6-1.2 meters",
+      "image_name": "Common_Boneset_Plant.jpg"
+    },
+    {
+      "name": "Common Lambsquarters",
+      "latin_name": "Chenopodium album",
+      "isNative": true,
+      "height": "Up to 1 meter",
+      "image_name": "Common_Lambsquarters_Plant.jpg"
+    },
+    {
+      "name": "Common Plantain",
+      "latin_name": "Plantago major",
+      "isNative": false,
+      "height": "0.1 meters",
+      "image_name": "Common_Plantain_Plant.jpg"
+    },
+    {
+      "name": "Common Ragweed",
+      "latin_name": "Ambrosia artemisiifolia",
+      "isNative": true,
+      "height": "0.3-1 meter",
+      "image_name": "Common_Ragweed_Leaves.jpg"
+    },
+    {
+      "name": "Common Soapwort",
+      "latin_name": "Saponaria officinalis",
+      "isNative": false,
+      "height": "0.3-0.8 meters",
+      "image_name": "Common_Soapwort_Plant.jpg"
+    },
+    {
+      "name": "Common Sorrel",
+      "latin_name": "Rumex acetosa",
+      "isNative": false,
+      "height": "0.6 meters",
+      "image_name": "Common_Sorrel_Plant.jpg"
+    },
+    {
+      "name": "Common Toadflax",
+      "latin_name": "Linaria vulgaris",
+      "isNative": false,
+      "height": "Up to 1 meter",
+      "image_name": "Common_Toadflax_Plant.jpg"
+    },
+    {
+      "name": "Common Yarrow",
+      "latin_name": "Achillea millefolium",
+      "isNative": true,
+      "height": "Up to 1 meter",
+      "image_name": "Common_Yarrow_Plant.jpg"
+    },
+    {
+      "name": "Cow Parsnip",
+      "latin_name": "Heracleum maximum",
+      "isNative": true,
+      "height": "Over 2 meters",
+      "image_name": "Cow_Parsnip_Plant.jpg"
+    },
+    {
+      "name": "Cow Vetch",
+      "latin_name": "Vicia cracca",
+      "isNative": false,
+      "height": "1-2 meters",
+      "image_name": "Cow_Vetch_Flowers.jpg"
+    },
+    {
+      "name": "Creeping Bentgrass",
+      "latin_name": "Agrostis stolonifera",
+      "isNative": false,
+      "height": "0.3-1 meter",
+      "image_name": "Creeping_Bentgrass_Plant.jpg"
+    },
+    {
+      "name": "Curly Dock",
+      "latin_name": "Rumex crispus",
+      "isNative": false,
+      "height": "0.6-1.2 meters",
+      "image_name": "Curly_Dock_Green_Flowers.jpg"
+    },
+    {
+      "name": "Dame's Rocket",
+      "latin_name": "Hesperis matronalis",
+      "isNative": false,
+      "height": "1 meter or more",
+      "image_name": "Dames_Rocket_Plant.jpg"
+    },
+    {
+      "name": "Dark Green Bulrush",
+      "latin_name": "Scirpus atrovirens",
+      "isNative": false,
+      "height": "0.8-1.2 meters",
+      "image_name": "Dark_Green_Bulrush_Plant.jpg"
+    },
+    {
+      "name": "Ditch Stonecrop",
+      "latin_name": "Penthorum sedoides",
+      "isNative": true,
+      "height": "0.3-0.6 meters",
+      "image_name": "Ditch_Stonecrop_Plant.jpg"
+    },
+    {
+      "name": "English Violet",
+      "latin_name": "Viola odorata",
+      "isNative": false,
+      "height": "English Violet",
+      "image_name": "English_Violet_Plant.jpg"
+    },
+    {
+      "name": "Field Bindweed",
+      "latin_name": "Convolvulus arvensis",
+      "isNative": false,
+      "height": "Vine",
+      "image_name": "Field_Bindweed_Plant.jpg"
+    },
+    {
+      "name": "Forget-Me-Not",
+      "latin_name": "Myosotis scorpioides",
+      "isNative": false,
+      "height": "Up to 0.7 meters",
+      "image_name": "Forget_Me_Not_Plant.jpg"
+    },
+    {
+      "name": "Foxtail",
+      "latin_name": "Setaria glauca",
+      "isNative": false,
+      "height": "Up to 1 meter",
+      "image_name": "Foxtail_Plant.jpg"
+    },
+    {
+      "name": "Garden Valerian",
+      "latin_name": "Valeriana officinalis",
+      "isNative": false,
+      "height": "Up to 1.5 meters",
+      "image_name": "Garden_Valerian_Plant.jpg"
+    },
+    {
+      "name": "Garlic Mustard",
+      "latin_name": "Alliara petiolata",
+      "isNative": false,
+      "height": "0.6-1 meter",
+      "image_name": "Garlic_Mustard_Plant.jpg"
+    },
+    {
+      "name": "Giant St John's Wort",
+      "latin_name": "Hypericum ascyron",
+      "isNative": false,
+      "height": "1-1.5 meters",
+      "image_name": "Giant_St_Johns_Wort_Plants.jpg"
+    },
+    {
+      "name": "Gloden Button",
+      "latin_name": "Tanacetum vulgare",
+      "isNative": false,
+      "height": "1-2 meters",
+      "image_name": "Golden_Buttons_Plant.jpg"
+    },
+    {
+      "name": "Goldenrod",
+      "latin_name": "Solidago canadensis",
+      "isNative": true,
+      "height": "0.5-1.5 meters",
+      "image_name": "Goldenrod_Plant.jpg"
+    },
+    {
+      "name": "Great Willowherb",
+      "latin_name": "Epilobium hirsutum",
+      "isNative": false,
+      "height": "1-1.5 meters",
+      "image_name": "Great_Willowherb_Plant.jpg"
+    },
+    {
+      "name": "Green Bristle Grass",
+      "latin_name": "Setaria viridis",
+      "isNative": false,
+      "height": "Up to 1 meter",
+      "image_name": "Green_Bristle_Grass_Plant.jpg"
+    },
+    {
+      "name": "Ground Ivy",
+      "latin_name": "Glechoma hederacea",
+      "isNative": false,
+      "height": "Vine",
+      "image_name": "Ground_Ivy_Flowers.jpg"
+    },
+    {
+      "name": "Horsetail",
+      "latin_name": "Equisetum arvense",
+      "isNative": true,
+      "height": "0.3 meters",
+      "image_name": "Horsetail_Stems.jpg"
+    },
+    {
+      "name": "Italian Ryegrass",
+      "latin_name": "Lolium multiflorum",
+      "isNative": false,
+      "height": "1 meter",
+      "image_name": "Italian_Ryegrass_Plant.jpg"
+    },
+    {
+      "name": "Jerusalem Artichokes",
+      "latin_name": "Helianthus tuberosus",
+      "isNative": false,
+      "height": "1-3 meters",
+      "image_name": "Jerusalem_Artichoke_Plant.jpg"
+    },
+    {
+      "name": "Joe Pye Weed",
+      "latin_name": "Eutrochium purpureum, Eutrochium maculatum",
+      "isNative": true,
+      "height": "1-2.5 meters",
+      "image_name": "Joe_Pye_Weed_Plants.jpg"
+    },
+    {
+      "name": "Johnson Grass",
+      "latin_name": "Sorghum halepense",
+      "isNative": false,
+      "height": "2 meters",
+      "image_name": "Johnson_Grass_Plant.jpg"
+    },
+    {
+      "name": "Ladybell",
+      "latin_name": "Adenophora liliifolia",
+      "isNative": false,
+      "height": "0.6-0.8 meters",
+      "image_name": "Ladybell_Plants.jpg"
+    },
+    {
+      "name": "Lilac",
+      "latin_name": "Syringa vulgaris",
+      "isNative": false,
+      "height": "6-7 meters",
+      "image_name": "Lilac_Flowers.jpg"
+    },
+    {
+      "name": "Lily",
+      "latin_name": "Lilium candidum",
+      "isNative": false,
+      "height": "1.2 meters",
+      "image_name": "Lily_Plants.jpg"
+    },
+    {
+      "name": "Meadow Grass",
+      "latin_name": "Poa annua",
+      "isNative": false,
+      "height": "0.2-0.3 meters",
+      "image_name": "Meadow_Grass_Plant.jpg"
+    },
+    {
+      "name": "Meadowsweet",
+      "latin_name": "Filipendula ulmaria",
+      "isNative": false,
+      "height": "1-2 meters",
+      "image_name": "Meadowsweet_Plants.jpg"
+    },
+    {
+      "name": "Milkweed",
+      "latin_name": "Asclepias syriaca",
+      "isNative": true,
+      "height": "0.5-1.5 meters",
+      "image_name": "Milkweed_Plant.jpg"
+    },
+    {
+      "name": "Morning Glory",
+      "latin_name": "Convolvulaceae family",
+      "isNative": false,
+      "height": "Vine",
+      "image_name": "Morning_Glory_Flowers.jpg"
+    },
+    {
+      "name": "Mullein",
+      "latin_name": "Verbascum thapsus",
+      "isNative": false,
+      "height": "0.5-3 meters",
+      "image_name": "Mullein_Plant.jpg"
+    },
+    {
+      "name": "Netted Chain Fern",
+      "latin_name": "Woodwardia areolata",
+      "isNative": true,
+      "height": "Up to 0.6 meters",
+      "image_name": "Netted_Chain_Fern_Plant.jpg"
+    },
+    {
+      "name": "Oriental Bittersweet",
+      "latin_name": "Celastrus orbiculatus",
+      "isNative": false,
+      "height": "Vine",
+      "image_name": "Oriental_Bittersweet_Berries.jpg"
+    },
+    {
+      "name": "Oxeye Daisy",
+      "latin_name": "Leucanthemum vulgare",
+      "isNative": false,
+      "height": "0.3-1 meter",
+      "image_name": "Oxeye_Daisy_Plants.jpg"
+    },
+    {
+      "name": "Pale Swallow Wort",
+      "latin_name": "Vincetoxicum rossicum",
+      "isNative": false,
+      "height": "0.6-2 meters",
+      "image_name": "Pale_Swallow_Wort_Plant.jpg"
+    },
+    {
+      "name": "Peoney",
+      "latin_name": "Paeonia x suffruticosa",
+      "isNative": false,
+      "height": "0.25-1 meter",
+      "image_name": "Peony_Plant.jpg"
+    },
+    {
+      "name": "Philadelphia Daisy",
+      "latin_name": "Erigeron philadelphicus",
+      "isNative": true,
+      "height": "0.2-0.8 meters",
+      "image_name": "Philadelphia_Daisy_Plant.jpg"
+    },
+    {
+      "name": "Phragmites",
+      "latin_name": "Phragmites australis",
+      "isNative": false,
+      "height": "2-4 meters",
+      "image_name": "Phragmites_Leaves.jpg"
+    },
+    {
+      "name": "Purple Loosestrife",
+      "latin_name": "Lythrum salicara",
+      "isNative": false,
+      "height": "1-2 meters",
+      "image_name": "Purple_Loosestrife_Plants.jpg"
+    },
+    {
+      "name": "Purpletop Tridens",
+      "latin_name": "Tridens flavus",
+      "isNative": false,
+      "height": "1-1.5 meters",
+      "image_name": "Purpletop_Tridens_Plants.jpg"
+    },
+    {
+      "name": "Queen Anne's Lace",
+      "latin_name": "Daucus carota",
+      "isNative": false,
+      "height": "Up to 1 meter",
+      "image_name": "Queen_Annes_Lace_Plant.jpg"
+    },
+    {
+      "name": "Raspberry",
+      "latin_name": "Rubus strigosus",
+      "isNative": true,
+      "height": "0.5-2 meters",
+      "image_name": "Raspberry_Plant.jpg"
+    },
+    {
+      "name": "Redstem Filaree",
+      "latin_name": "Erodium cicutarium",
+      "isNative": false,
+      "height": "0.1-0.5 meters",
+      "image_name": "Redstem_Filaree_Plant.jpg"
+    },
+    {
+      "name": "Reed Canary Grass",
+      "latin_name": "Phalaris arundinacea",
+      "isNative": true,
+      "height": "1.5 meters",
+      "image_name": "Reed_Canary_Grass_Plants.jpg"
+    },
+    {
+      "name": "Rhubarb",
+      "latin_name": "Rheum x hybridum",
+      "isNative": false,
+      "height": "1 meter",
+      "image_name": "Rhubarb_Plant.jpg"
+    },
+    {
+      "name": "Ribwort Plantain",
+      "latin_name": "Plantago lanceolata",
+      "isNative": false,
+      "height": "0.1-0.4 meters",
+      "image_name": "Ribwort_Plantain_Plant.jpg"
+    },
+    {
+      "name": "Round Fruited Rush",
+      "latin_name": "Juncus compressus",
+      "isNative": false,
+      "height": "0.8 meters",
+      "image_name": "Round_Fruited_Rush_Plants.jpg"
+    },
+    {
+      "name": "Smooth Bedstraw",
+      "latin_name": "Galium mollugo",
+      "isNative": false,
+      "height": "Up to 1 meter",
+      "image_name": "Smooth_Bedstraw_Leaves.jpg"
+    },
+    {
+      "name": "Smooth Brome",
+      "latin_name": "Bromus inermus",
+      "isNative": false,
+      "height": "Up to 1.5 meters",
+      "image_name": "Smooth_Brome_Stem.jpg"
+    },
+    {
+      "name": "Soybean",
+      "latin_name": "Glycine max",
+      "isNative": false,
+      "height": "0.5-1.2 meters",
+      "image_name": "Soybean_Plant.jpg"
+    },
+    {
+      "name": "Spotted Knapweed",
+      "latin_name": "Centaurea stoebe",
+      "isNative": false,
+      "height": "0.6-1 meter",
+      "image_name": "Spotted_Knapweed_Plant.jpg"
+    },
+    {
+      "name": "Spotted Touch-Me-Not",
+      "latin_name": "Impatiens capensis",
+      "isNative": true,
+      "height": "1-1.5 meters",
+      "image_name": "Spotted_Touch_Me_Not_Plants.jpg"
+    },
+    {
+      "name": "Softstem Bulrush",
+      "latin_name": "Schoenoplectus tabernaemontani",
+      "isNative": true,
+      "height": "Up to 3 meters",
+      "image_name": "Softstem_Bulrush_Plants.jpg"
+    },
+    {
+      "name": "Soft Rush",
+      "latin_name": "Juncus effusus",
+      "isNative": true,
+      "height": "Up to 1 meter",
+      "image_name": "Soft_Rush_Plant.jpg"
+    },
+    {
+      "name": "Stinging Nettle",
+      "latin_name": "Urtica dioica",
+      "isNative": true,
+      "height": "1-2 meters",
+      "image_name": "Stinging_Nettle_Plant.jpg"
+    },
+    {
+      "name": "Swamp Loosestrife",
+      "latin_name": "Decodon verticillatus",
+      "isNative": true,
+      "height": "1 meter",
+      "image_name": "Swamp_Loosestrife_Plant.jpg"
+    },
+    {
+      "name": "Tall Fescue",
+      "latin_name": "Festuca arundinacea",
+      "isNative": false,
+      "height": "1.5 meters",
+      "image_name": "Tall_Fescue_Plant.jpg"
+    },
+    {
+      "name": "Tatarian Honeysuckle",
+      "latin_name": "Lonicera tatarica",
+      "isNative": false,
+      "height": "3-4 meters",
+      "image_name": "Tatarian_Honeysuckle_Plant.jpg"
+    },
+    {
+      "name": "Timothy",
+      "latin_name": "Phleum pratense",
+      "isNative": false,
+      "height": "Up to 1 meter",
+      "image_name": "Timothy_Plant.jpg"
+    },
+    {
+      "name": "Velvet Grass",
+      "latin_name": "Holcus lanatus",
+      "isNative": false,
+      "height": "1 meter",
+      "image_name": "Velvet_Grass_Plant.jpg"
+    },
+    {
+      "name": "Virginia Creeper",
+      "latin_name": "Parthenocissus quinquefolia",
+      "isNative": true,
+      "height": "Vine",
+      "image_name": "Virginia_Creeper_Green_Berries.jpg"
+    },
+    {
+      "name": "Wartweed",
+      "latin_name": "Euphorbia peplus",
+      "isNative": false,
+      "height": "Up to 0.3 meters",
+      "image_name": "Wartweed_Plant.jpg"
+    },
+    {
+      "name": "White Sweet Clover",
+      "latin_name": "Melilotus alba",
+      "isNative": false,
+      "height": "Up to 2.5 meters",
+      "image_name": "White_Sweet_Clover_Plants.jpg"
+    },
+    {
+      "name": "White Turtlehead",
+      "latin_name": "Chelone glabra",
+      "isNative": true,
+      "height": "Up to 1 meter",
+      "image_name": "White_Turtlehead_Plant.jpg"
+    },
+    {
+      "name": "Wild Grape",
+      "latin_name": "Vitis spp.",
+      "isNative": true,
+      "height": "Vine",
+      "image_name": "Wild_Grape_Plant.jpg"
+    },
+    {
+      "name": "Wild Parsnip",
+      "latin_name": "Pastinaca sativa",
+      "isNative": false,
+      "height": "0.3-1.5 meters",
+      "image_name": "Wild_Parsnip_Plant.jpg"
+    },
+    {
+      "name": "Wild Strawberry",
+      "latin_name": "Fragaria vesca",
+      "isNative": true,
+      "height": "Up to 0.1 meters",
+      "image_name": "Wild_Strawberry_Flowers_Berries.jpg"
+    },
+    {
+      "name": "Winterberry",
+      "latin_name": "Ilex verticillata",
+      "isNative": true,
+      "height": "1-3 meters",
+      "image_name": "Winterberry_Plant.jpg"
+    },
+    {
+      "name": "Wormseed",
+      "latin_name": "Dysphania ambrosioides",
+      "isNative": false,
+      "height": "1.2 meters",
+      "image_name": "Wormseed_Plants.jpg"
+    },
+    {
+      "name": "Yellow Archangel",
+      "latin_name": "Lamiastrum galeobdolon",
+      "isNative": false,
+      "height": "0.4-0.8 meters",
+      "image_name": "Yellow_Archangel_Plant.jpg"
+    },
+    {
+      "name": "Yellow Hawkweed",
+      "latin_name": "Hieracium caespitosum",
+      "isNative": false,
+      "height": "0.3-0.9 meters",
+      "image_name": "Yellow_Hawkweed_Plant.jpg"
+    },
+    {
+      "name": "Yellow Iris",
+      "latin_name": "Iris pseudacorus",
+      "isNative": false,
+      "height": "1-1.5 meters",
+      "image_name": "Yellow_Iris_Plants.jpg"
+    },
+    {
+      "name": "Yellow Loosestrife",
+      "latin_name": "Lysimachia punctata",
+      "isNative": false,
+      "height": "Up to 1 meter",
+      "image_name": "Yellow_Loosestrife_Plants.jpg"
+    },
+    {
+      "name": "Yellow Rocket",
+      "latin_name": "Barbarea vulgaris",
+      "isNative": false,
+      "height": "0.3-0.9 meters",
+      "image_name": "Yellow_Rocket_Plant.jpg"
+    }
+  ]

@@ -1,0 +1,370 @@
+Plant: Bittersweet Nightshade
+Image: "Bittersweet_Nightshade_Flowers_Berries.jpg"
+Colors: Purple
+Description: star shaped, yellow center cone
+
+Plant: Black-Eyed Susan
+Image: "Black_Eyed_Susan_Flower.jpg"
+Colors: Yellow
+Description: brown center, 5-8cm wide
+
+Plant: Birdsfoot Trefoil
+Image: "Birdsfoot_Trefoil_Flowers.jpg"
+Colors: Yellow
+Description: pea shaped, in clusters of 2-12
+
+Plant: Bladder Campion
+Image: "Bladder_Campion_Flowers.jpg"
+Colors: White
+Description: White petals with a white-pink bulb at the base, 1-1.5cm across
+
+Plant: Blue Vervain
+Image: "Blue_Vervain_Flowers.jpg"
+Colors: Purple-Blue
+Description: at or near top of stem
+
+Plant: Burdock
+Image: "Burdock_Flowers.jpg"
+Colors: Purple
+Description: Purple flower extending from green-brown Velcro-like ball
+
+Plant: Buttercup
+Image: "Buttercup_Leaves_Flower.jpg"
+Colors: Yellow
+Description: has five petals, small
+
+Plant: Canada Thistle
+Image: "Canada_Thistle_Flower.jpg"
+Colors: Pink, Purple
+Description: growing from a bulb with spineless bracts
+
+Plant: Carpetweed
+Image: "Carpetweed_Flowers.jpg"
+Colors: White, Green-White
+Description: 4-5mm across, in clusters of 2-5 where leaf meets stem
+
+Plant: Cattail
+Image: "Cattail_Heads.jpg"
+Colors: Brown
+Description: sausage-like at top of stem
+
+Plant: Chickweed
+Image: "Chickweed_Flowers.jpg"
+Colors: White
+Description: small, deeply lobed petals
+
+Plant: Chicory
+Image: "Chicory_Flower.jpg"
+Colors: Blue
+Description: in clusters of 1-4 on upper stems
+
+Plant: Chinese Bugleweed
+Image: "Chinese_Bugleweed_Flowers.jpg"
+Colors: White
+Description: small, where stem and leaves meet
+
+Plant: Common Boneset
+Image: "None.jpg"
+Colors: White
+Description: at ends of stems, in clusters 5-20cm across, each flower 0.5cm
+
+Plant: Common Lambsquarters
+Image: "Common_Lambsquarters_Flowers.jpg"
+Colors: Green
+Description: small, dense clusters, on spikes
+
+Plant: Common Plantain
+Image: "None.jpg"
+Colors: Green
+Description: very small
+
+Plant: Common Ragweed
+Image: "Common_Ragweed_Flower.jpg"
+Colors: Green
+Description: 2-3mm, inconspicuous, on terminal branches
+
+Plant: Common Soapwort
+Image: "Common_Soapwort_Flowers.jpg"
+Colors: Pink
+Description: in groups at the end of the stems, 2cm across
+
+Plant: Common Sorrel
+Image: "Common_Sorrel_Flowers.jpg"
+Colors: Red-Green, Purple
+Description: Reddish-green to purplish spikes of flowers
+
+Plant: Common Toadflax
+Image: "Common_Toadflax_Flowers.jpg"
+Colors: Yellow
+Description: has orange center, two-lipped, 2-4cm long, fuzzy throated
+
+Plant: Common Yarrow
+Image: "Common_Yarrow_Flowers.jpg"
+Colors: White, Pink
+Description: in a flat-topped or rounded cluster at the end of branches
+
+Plant: Cow Parsnip
+Image: "Cow_Parsnip_Flowers.jpg"
+Colors: White
+Description: small, in umbels 20cm across
+
+Plant: Cow Vetch
+Image: "Cow_Vetch_Flowers.jpg"
+Colors: Purple-Blue
+Description: in groups of 10-40 at the end of the stem, 8-13mm
+
+Plant: Curly Dock
+Image: "Curly_Dock_Red_Flowers.jpg"
+Colors: Green, Red
+Description: turns deep red with maturity, in clusters at the end of a long stem
+
+Plant: Dame's Rocket
+Image: "Dames_Rocket_Flowers.jpg"
+Colors: Purple, White, Pink
+Description: four-petaled forming a mock tube at the base
+
+Plant: Ditch Stonecrop
+Image: "None.jpg"
+Colors: Green
+Description: on upper stems, in groups 2-7cm across
+
+Plant: English Violet
+Image: "English_Violet_Flowers.jpg"
+Colors: Purple
+Description: at the end of a stalk, two petals at the top and three at the bottom
+
+Plant: Field Bindweed
+Image: "None.jpg"
+Colors: White, Pink
+Description: trumpet-shaped, 1-2.5cm
+
+Plant: Forget-Me-Not
+Image: "Forget_Me_Not_Flowers.jpg"
+Colors: Blue
+Description: Pink buds, blue flowers with yellow centers and white honey guides, 8-12mm
+
+Plant: Garden Valerian
+Image: "Garden_Valerian_Flowers.jpg"
+Colors: White, Pink
+Description: scented, in clusters
+
+Plant: Garlic Mustard
+Image: "Garlic_Mustard_Flowers.jpg"
+Colors: White
+Description: small, four-petaled, clustered at stem ends
+
+Plant: Giant St John's Wort
+Image: "Giant_St_Johns_Wort_Flowers.jpg"
+Colors: Yellow
+Description: groups of 1-5 flowers 5cm across
+
+Plant: Gloden Button
+Image: "Golden_Buttons_Flowers.jpg"
+Colors: Yellow
+Description: round
+
+Plant: Goldenrod
+Image: "Goldenrod_Flowers.jpg"
+Colors: Yellow
+Description: at top of branches in groups of about 14
+
+Plant: Great Willowherb
+Image: "Great_Willowherb_Flower.jpg"
+Colors: Purple
+Description: small, 2-5cm
+
+Plant: Ground Ivy
+Image: "Ground_Ivy_Flowers.jpg"
+Colors: Purple, Blue
+Description: in clusters of 2-3, growing from stem
+
+Plant: Jerusalem Artichokes
+Image: "Jerusalem_Artichoke_Flower.jpg"
+Colors: Yellow
+Description: 1-5 flowers at the end of a stem, about 5cm in diameter
+
+Plant: Joe Pye Weed
+Image: "Joe_Pye_Weed_Flowers.jpg"
+Colors: Pink, Purple
+Description: small, vanilla scented, clusters at top of stem
+
+Plant: Ladybell
+Image: "Ladybell_Flowers.jpg"
+Colors: Blue
+Description: bell-shaped, hanging, in spikes at the end of the stem
+
+Plant: Lilac
+Image: "Lilac_Flowers.jpg"
+Colors: White, Purple, Pink, Blue
+Description:  in clusters
+
+Plant: Lily
+Image: "Lily_Flowers.jpg"
+Colors: White
+Description: White with yellow throat
+
+Plant: Meadowsweet
+Image: "Meadowsweet_Flowers.jpg"
+Colors: White
+Description: puffy, large, in clusters of 20 at top of plant
+
+Plant: Milkweed
+Image: "Milkweed_Flowers.jpg"
+Colors: Purple, Pink
+Description: globe shaped, in clusters
+
+Plant: Morning Glory
+Image: "Morning_Glory_Flowers.jpg"
+Colors: Pink, White
+Description: 1-2.5cm
+
+Plant: Mullein
+Image: "Mullein_Flowers.jpg"
+Colors: Yellow, Orange, Red-Brown, Purple, Blue, White
+Description: in spike at the top of the stem
+
+Plant: Oriental Bittersweet
+Image: "Oriental_Bittersweet_Flowers_Leaves.jpg"
+Colors: Green
+Description: small
+
+Plant: Oxeye Daisy
+Image: "Oxeye_Daisy_Flower.jpg"
+Colors: White
+Description: yellow center, 20-30 petals, 2-5cm diameter, single flower on end of stem
+
+Plant: Pale Swallow Wort
+Image: "Pale_Swallow_Wort_Flowers.jpg"
+Colors: Pink
+Description: star shaped, at top of plant
+
+Plant: Peoney
+Image: "Peony_Flower.jpg"
+Colors: Red, Pink, White, Yellow
+Description: single or double bloom
+
+Plant: Philadelphia Daisy
+Image: "Philadelphia_Daisy_Flower.jpg"
+Colors: Pink, White
+Description: yellow centers, 2.5cm, up to 400 petals
+
+Plant: Purple Loosestrife
+Image: "Purple_Loosestrife_Flowers.jpg"
+Colors: Red-Purple
+Description: Reddish purple, clustered in spikes at top of stem, 10-20mm
+
+Plant: Queen Anne's Lace
+Image: "Queen_Annes_Lace_Flowers.jpg"
+Colors: White
+Description: flat to umbrella shaped clusters with a single dark flower in the center
+
+Plant: Raspberry
+Image: "None.jpg"
+Colors: White
+Description: small
+
+Plant: Redstem Filaree
+Image: "Redstem_Filaree_Flowers.jpg"
+Colors: Pink, Purple
+Description: clusters of 2-8
+
+Plant: Ribwort Plantain
+Image: "Ribwort_Plantain_Flowers.jpg"
+Colors: White
+Description: at the end of a tall stem, blooming from a dark brown spike
+
+Plant: Smooth Bedstraw
+Image: "Smooth_Bedstraw_Flowers.jpg"
+Colors: White
+Description: clustered, tiny
+
+Plant: Soybean
+Image: "None.jpg"
+Colors: White, Purple
+Description: small
+
+Plant: Spotted Knapweed
+Image: "Spotted_Knapweed_Flower.jpg"
+Colors: Pink, Purple
+Description: extend out of small pineapple shape, similar to thistle
+
+Plant: Spotted Touch-Me-Not
+Image: "Spotted_Touch_Me_Not_Flowers.jpg"
+Colors: Orange
+Description: small, bell shaped, in groups of 1-4
+
+Plant: Stinging Nettle
+Image: "Stinging_Nettle_Flowers.jpg"
+Colors: Green, Brown
+Description: growing between leaves on stem
+
+Plant: Swamp Loosestrife
+Image: "Swamp_Loosestrife_Flowers.jpg"
+Colors: Purple
+Description: small, at base of leaves
+
+Plant: Tatarian Honeysuckle
+Image: "Tatarian_Honeysuckle_Flowers.jpg"
+Colors: 
+Description: 
+
+Plant: Wartweed
+Image: "Wartweed_Leaves_Flowers.jpg"
+Colors: Green
+Description: small
+
+Plant: White Sweet Clover
+Image: "White_Sweet_Clover_Flowers.jpg"
+Colors: White
+Description: clustered on spikes, from top of plant and where leaves meet stem
+
+Plant: White Turtlehead
+Image: "White_Turtlehead_Flowers.jpg"
+Colors: White
+Description: small, shape suggests a turtle head
+
+Plant: Wild Grape
+Image: "None.jpg"
+Colors: White
+Description: small
+
+Plant: Wild Parsnip
+Image: "Wild_Parsnip_Flowers.jpg"
+Colors: Yellow
+Description: small, clustered in an umbrella shape
+
+Plant: Wild Strawberry
+Image: "Wild_Strawberry_Flowers_Berries.jpg"
+Colors: White
+Description: 
+
+Plant: Wormseed
+Image: "Wormseed_Flowers.jpg"
+Colors: green
+Description: small, in cluster at top of stem
+
+Plant: Yellow Archangel
+Image: "Yellow_Archangel_Flowers.jpg"
+Colors: White, Yellow
+Description: in whorls on terminal spike
+
+Plant: Yellow Hawkweed
+Image: "Yellow_Hawkweed_Flower.jpg"
+Colors: Yellow
+Description: similar to dandelion, at top of stalk
+
+Plant: Yellow Iris
+Image: "Yellow_Iris_Flower.jpg"
+Colors: Yellow
+Description: typical iris form
+
+Plant: Yellow Loosestrife
+Image: "Yellow_Loosestrife_Flowers.jpg"
+Colors: Yellow
+Description: at top of stem
+
+Plant: Yellow Rocket
+Image: "Yellow_Rocket_Flowers.jpg"
+Colors: Yellow
+Description: clustered on spikes at end of stems
+

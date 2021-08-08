@@ -1,0 +1,287 @@
+Plant: American Fox Sedge
+Description:Grass
+
+Plant: Asperagus
+Description: Resembles store bought asparagus, develops alternate branches
+
+Plant: Barnyard Grass
+Description: Grass
+
+Plant: Bittersweet Nightshade
+Description: Woody lower stem
+
+Plant: Black-Eyed Susan
+Description: Green, round
+
+Plant: Birdsfoot Trefoil
+Description: Green, round
+
+Plant: Bladder Campion
+Description: Pale Green, hairless
+
+Plant: Blue Vervain
+Description: White furred, square
+
+Plant: Burdock
+Description: Green-grey, round
+
+Plant: Buttercup
+Description: Pale green, round
+
+Plant: Canada Thistle
+Description: Grooved and erect
+
+Plant: Carpetweed
+Description: Viny
+
+Plant: Cattail
+Description: Long, reedy, with spike at the top and brown sausage-like flowerhead below it
+
+Plant: Chickweed
+Description: Smooth with 1-2 rows of hair
+
+Plant: Chicory
+Description: Hairy lower, leafless upper, milky sap when cut
+
+Plant: Chinese Bugleweed
+Description: Green, round
+
+Plant: Common Boneset
+Description: Covered in long white hairs
+
+Plant: Common Lambsquarters
+Description: Erect, branching, hairless, vertically ridged, maroon striped
+
+Plant: Common Plantain
+Description: Long central stalk
+
+Plant: Common Ragweed
+Description: Long rough hairs
+
+Plant: Common Soapwort
+Description: Round, hairless
+
+Plant: Common Sorrel
+Description: Juicy
+
+Plant: Common Toadflax
+Description: Tough at the base, branching
+
+Plant: Common Yarrow
+Description: Fine white hairs
+
+Plant: Cow Parsnip
+Description: Brown-green, round
+
+Plant: Cow Vetch
+Description: Green at base, brown at tips
+
+Plant: Creeping Bentgrass
+Description: Grass
+
+Plant: Curly Dock
+Description: Green
+
+Plant: Dame's Rocket
+Description: Multiple, upright, hairy
+
+Plant: Dark Green Bulrush
+Description: Unbranched, more or less erect, green
+
+Plant: Ditch Stonecrop
+Description: Light reddish-green
+
+Plant: English Violet
+Description: Leafless
+
+Plant: Field Bindweed
+Description: Vine, hairless
+
+Plant: Forget-Me-Not
+Description: Yellow-green, round
+
+Plant: Foxtail
+Description: Grass
+
+Plant: Garden Valerian
+Description: Green, round
+
+Plant: Garlic Mustard
+Description: Green, upright
+
+Plant: Giant St John's Wort
+Description: Erect, branched in the top 1/3 of the plant, light green, 4-angled
+
+Plant: Goldenrod
+Description: Upright, branched
+
+Plant: Great Willowherb
+Description: Hairy
+
+Plant: Green Bristle Grass
+Description: Grass
+
+Plant: Ground Ivy
+Description: Square
+
+Plant: Horsetail
+Description: Erect leafless cone-bearing stem, or vegetative stem with whorls of leafless branches at the nodes
+
+Plant: Italian Ryegrass
+Description: Grass
+
+Plant: Jerusalem Artichokes
+Description: Coarse with rough hairs
+
+Plant: Joe Pye Weed
+Description: Brown
+
+Plant: Johnson Grass
+Description: Grass
+
+Plant: Ladybell
+Description: Green, round
+
+Plant: Lilac
+Description: Grey to grey-brown bark
+
+Plant: Lily
+Description: Leafy
+
+Plant: Meadow Grass
+Description: Grass, slightly flattened
+
+Plant: Meadowsweet
+Description: Brown, woody
+
+Plant: Milkweed
+Description: Green, round
+
+Plant: Morning Glory
+Description: Green, round
+
+Plant: Mullein
+Description: Tall
+
+Plant: Netted Chain Fern
+Description: Green
+
+Plant: Oriental Bittersweet
+Description: Silver to reddish brown, woody
+
+Plant: Oxeye Daisy
+Description: Smooth, hairless
+
+Plant: Philadelphia Daisy
+Description: Hairy
+
+Plant: Phragmites
+Description: Grass, hollow
+
+Plant: Purple Loosestrife
+Description: Reddish-purple, erect
+
+Plant: Purpletop Tridens
+Description: Grass
+
+Plant: Queen Anne's Lace
+Description: Green
+
+Plant: Raspberry
+Description: Red or green with prickles
+
+Plant: Redstem Filaree
+Description: Reddish, low, hairy
+
+Plant: Reed Canary Grass
+Description: Grass
+
+Plant: Rhubarb
+Description: Deep red, pink, or green
+
+Plant: Ribwort Plantain
+Description: Leafless, silky, hairy
+
+Plant: Round Fruited Rush
+Description: Grass
+
+Plant: Smooth Bedstraw
+Description: Upright initially but spread over time, wiry, angled, branched
+
+Plant: Smooth Brome
+Description: Grass, very thin
+
+Plant: Soybean
+Description: Woody, not corn
+
+Plant: Spotted Knapweed
+Description: Erect, slender, wiry, branched
+
+Plant: Spotted Touch-Me-Not
+Description: Branched
+
+Plant: Softstem Bulrush
+Description: Grass
+
+Plant: Soft Rush
+Description: Grass
+
+Plant: Stinging Nettle
+Description: Green, erect, wiry, SKIN IRRITANT
+
+Plant: Swamp Loosestrife
+Description: Pinkish, woody at base
+
+Plant: Tall Fescue
+Description: Grass
+
+Plant: Tatarian Honeysuckle
+Description: Light brown-tan, scaly bark
+
+Plant: Timothy
+Description: Grass
+
+Plant: Velvet Grass
+Description: Grass
+
+Plant: Virginia Creeper
+Description: Green or woody
+
+Plant: Wartweed
+Description: Smooth, hairless
+
+Plant: White Sweet Clover
+Description: Light green, branching
+
+Plant: White Turtlehead
+Description: Green, smooth
+
+Plant: Wild Grape
+Description: Woody
+
+Plant: Wild Parsnip
+Description: Hairy lower, bare upper, milky sap if cut. DO NOT TOUCH ANY PART OF THIS PLANT
+
+Plant: Wild Strawberry
+Description: Hairy
+
+Plant: Winterberry
+Description: Woody
+
+Plant: Wormseed
+Description: Branching
+
+Plant: Yellow Archangel
+Description: Square
+
+Plant: Yellow Hawkweed
+Description: Bristly, mostly leafless
+
+Plant: Yellow Iris
+Description: Round, green
+
+Plant: Yellow Loosestrife
+Description: Tall
+
+Plant: Yellow Rocket
+Description: Ribbed, hairless

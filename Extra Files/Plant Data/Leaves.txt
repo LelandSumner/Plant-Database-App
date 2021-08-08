@@ -1,0 +1,495 @@
+Plant: American Fox Sedge
+Image: "None.jpg"
+Shapes: LI
+Description: Long blades from the bottom of the plant
+
+Plant: Asperagus
+Image: "None.jpg"
+Shapes: DL
+Description: Small, alternating, scale like
+
+Plant: Barnyard Grass
+Image: "Barnyard_Grass_Leaves.jpg"
+Shapes: LI
+Description: Long 50cm leaves from the bottom of the plant that roll into the stem
+
+Plant: Bittersweet Nightshade
+Image: "Bittersweet_Nightshade_Leaves.jpg"
+Shapes: TL
+Description: main leaf is 2-10cm long with a smaller leaf below it on each side
+
+Plant: Black-Eyed Susan
+Image: "None.jpg"
+Shapes: OL
+Description: has a pointed end, irregularly placed, 5-18cm long
+
+Plant: Birdsfoot Trefoil
+Image: "Birdsfoot_Trefoil_Leaves.jpg"
+Shapes: TL
+Description: at the end of the stem with two more at the base, resembling a bird's foot
+
+Plant: Bladder Campion
+Image: "Bladder_Campion_Leaves.jpg"
+Shapes: LA, OB
+Description: Pale green to grayish green, opposite, 6cm long and 1.5cm across
+
+Plant: Blue Vervain
+Image: "Blue_Vervain_Stem_Leaves.jpg"
+Shapes: LA
+Description: Serrated edges, 15cm long and 2.5cm wide
+
+Plant: Burdock
+Image: "Burdock_Leaves.jpg"
+Shapes: HT
+Description: Large leaves, 50cm long and 40cm wide
+
+Plant: Buttercup
+Image: "Buttercup_Leaves_Flower.jpg"
+Shapes: TL
+Description: Dark green with three sections, each being toothed
+
+Plant: Canada Thistle
+Image: "None.jpg"
+Shapes: LB
+Description: spiny margins, alternate, bases surround the stem
+
+Plant: Carpetweed
+Image: "None.jpg"
+Shapes: OL
+Description: Rounded above and narrow at base, in groups of 3-8, 1-3cm long and <1cm wide
+
+Plant: Cattail
+Image: "None.jpg"
+Shapes: LA
+Description: Long, attached at the base of the plan
+
+Plant: Chickweed
+Image: "None.jpg"
+Shapes: DL
+Description: Opposite, rounded to egg shaped, pointed at apex
+
+Plant: Chicory
+Image: "None.jpg"
+Shapes: LA
+Description: 10-32cm long and 2-8cm wide
+
+Plant: Chinese Bugleweed
+Image: "Chinese_Bugleweed_Leaves.jpg"
+Shapes: LI
+Description: 10-15cm long in opposite pairs up the stem
+
+Plant: Common Boneset
+Image: "Common_Boneset_Leaves_Stem.jpg"
+Shapes: AR
+Description: Light yellow-green, opposite pairs, wrap around the stem, 5-20cm long and 5cm wide
+
+Plant: Common Lambsquarters
+Image: "None.jpg"
+Shapes: LA
+Description: alternate, 3-10cm long with irregular teeth
+
+Plant: Common Plantain
+Image: "None.jpg"
+Shapes: OL
+Description: Large, at the base of the plant, with thick stems
+
+Plant: Common Ragweed
+Image: "Common_Ragweed_Leaves.jpg"
+Shapes: CP
+Description: Hairy to smooth, egg shaped, once or twice compound, alternate, 4-10cm long
+
+Plant: Common Soapwort
+Image: "Common_Soapwort_Leaves.jpg"
+Shapes: OL, LA
+Description: Opposite, ovate or broadly lanceolate, hairless, three veins, 10cm long and 4.5cm across
+
+Plant: Common Sorrel
+Image: "Common_Sorrel_Leaves.jpg"
+Shapes: AR
+Description: upper leaves often red, 7-15cm long
+
+Plant: Common Toadflax
+Image: "None.jpg"
+Shapes: LI
+Description: Narrow, slightly pointed at both ends, crowded along the stem
+
+Plant: Common Yarrow
+Image: "Common_Yarrow_Leaves.jpg"
+Shapes: LA
+Description: finely divided, 3-15cm long and 2.5cm wide
+
+Plant: Cow Parsnip
+Image: "Cow_Parsnip_Leaves.jpg"
+Shapes: TL
+Description: Very large
+
+Plant: Cow Vetch
+Image: "Cow_Vetch_Leaves.jpg"
+Shapes: OB
+Description: Small, pinnate, long, broad, 5-11 pairs of leaflets
+
+Plant: Creeping Bentgrass
+Image: "None.jpg"
+Shapes: LI
+Description: Smooth, narrow, 1cm wide and 1-15cm long
+
+Plant: Curly Dock
+Image: "Curly_Dock_Leaves.jpg"
+Shapes: OL
+Description: Long with curly edges, coarse texture
+
+Plant: Dame's Rocket
+Image: "None.jpg"
+Shapes: LA
+Description: Toothed, long
+
+Plant: Dark Green Bulrush
+Image: "None.jpg"
+Shapes: LI
+Description: Yellow to dark green, up to 8, alternate, furrowed, flat, rough-edged, 3.5cm long and 2cm wide
+
+Plant: Ditch Stonecrop
+Image: "Ditch_Stonecrop_Leaves.jpg"
+Shapes: OL
+Description: Alternate, 10cm long and 2cm wide, elliptic or ovate, serrated, with a midvein
+
+Plant: English Violet
+Image: "None.jpg"
+Shapes: HT
+Description: 
+
+Plant: Field Bindweed
+Image: "Field_Bindweed_Leaves_Stem.jpg"
+Shapes: HT
+Description: Alternate, triangular or heart shaped, 2-6cm long
+
+Plant: Forget-Me-Not
+Image: "None.jpg"
+Shapes: OB, LI
+Description: fuzzy on both sides
+
+Plant: Foxtail
+Image: "None.jpg"
+Shapes: LI
+Description: Smooth underside but hairs on upper at base, 30cm long and 4-10mm wide
+
+Plant: Garden Valerian
+Image: "None.jpg"
+Shapes: CP
+Description: Opposite
+
+Plant: Garlic Mustard
+Image: "None.jpg"
+Shapes: HT
+Description: Kidney shaped, scalloped edges
+
+Plant: Giant St John's Wort
+Image: "Giant_St_Johns_Wort_Leaves.jpg"
+Shapes: LA, OL
+Description: Lanceolate-ovate, opposite, smooth edges, 10cm long and 4cm wide
+
+Plant: Gloden Button
+Image: "None.jpg"
+Shapes: CP
+Description: fernlike, 15cm
+
+Plant: Goldenrod
+Image: "Goldenrod_Leaves.jpg"
+Shapes: OL
+Description: Narrow, alternate, larger at base of stem, 3-15cm long
+
+Plant: Great Willowherb
+Image: "None.jpg"
+Shapes: LA
+Description: Long, narrow
+
+Plant: Green Bristle Grass
+Image: "None.jpg"
+Shapes: LI
+Description: 40cm long and 2.5cm wide
+
+Plant: Ground Ivy
+Image: "Ground_Ivy_Leaves.jpg"
+Shapes: HT
+Description: Rounded, kidney to heart shaped, curving into stalk
+
+Plant: Horsetail
+Image: "Horsetail_Leaves.jpg"
+Shapes:  
+Description: 
+
+Plant: Italian Ryegrass
+Image: "None.jpg"
+Shapes: LI
+Description: Narrowing to tip, 6-20cm long
+
+Plant: Jerusalem Artichokes
+Image: "None.jpg"
+Shapes: OL, HT
+Description: rough on top, gray hairs underneath, opposite at bottom and alternate at top of stem, 10-25cm long and 3-12cm wide
+
+Plant: Joe Pye Weed
+Image: "None.jpg"
+Shapes: LA
+Description: Long, serrated, in groups of 5-6
+
+Plant: Johnson Grass
+Image: "None.jpg"
+Shapes: LI
+Description: Smooth on both sides, white vein in the middle, 4-18cm long
+
+Plant: Ladybell
+Image: "None.jpg"
+Shapes: DL
+Description: Alternate, serated
+
+Plant: Lilac
+Image: "Lilac_Leaves.jpg"
+Shapes: DL
+Description: Opposite, shiny upper surface
+
+Plant: Lily
+Image: "None.jpg"
+Shapes: LA
+Description: In clusters around the stem
+
+Plant: Meadow Grass
+Image: "None.jpg"
+Shapes: LI
+Description: Vivid green, short and blunt at tips, in leaf year round
+
+Plant: Meadowsweet
+Image: "None.jpg"
+Shapes: LA
+Description: Toothed, in pairs, 10-20cm long
+
+Plant: Milkweed
+Image: "None.jpg"
+Shapes: OL
+Description: opposite, 7-20cm long
+
+Plant: Morning Glory
+Image: "Morning_Glory_Leaves.jpg"
+Shapes: HT, LB
+Description: Heart shaped with lobed bases
+
+Plant: Mullein
+Image: "Mullein_Leaves.jpg"
+Shapes: LA
+Description: Dense rosette at the ground, spirally arranged, often hairy, alternate up the stem
+
+Plant: Netted Chain Fern
+Image: "Netted_Chain_Fern_Leaves.jpg"
+Shapes: LA
+Description: Lance-shaped pinnae with small teeth, 50-70cm long
+
+Plant: Oriental Bittersweet
+Image: "Oriental_Bittersweet_Flowers_Leaves.jpg"
+Shapes: OL
+Description: Rounded to opovate, alternate, toothed margins, 2-12cm long
+
+Plant: Oxeye Daisy
+Image: "Oxeye_Daisy_Leaves.jpg"
+Shapes: LB
+Description: Smooth, hairless, rounded lobes on margins, 5-12cm long at base of stem and smaller up stem
+
+Plant: Pale Swallow Wort
+Image: "Pale_Swallow_Wort_Leaves.jpg"
+Shapes: OL
+Description: Larger closer to stem, ellipse or oval, smooth margin, veins underneath, opposite
+
+Plant: Peoney
+Image: "Peony_Leaves.jpg"
+Shapes: CP
+Description: deeply lobed
+
+Plant: Philadelphia Daisy
+Image: "None.jpg"
+Shapes: HT
+Description: alternate, simple
+
+Plant: Phragmites
+Image: "Phragmites_Leaves.jpg"
+Shapes: 
+Description: On same side of stem, flat, 20-60cm and 2.5cm wide
+
+Plant: Purple Loosestrife
+Image: "Purple_Loosestrife_Leaves.jpg"
+Shapes: TL
+Description: Opposite pairs or threes, smooth edged, 3-10cm
+
+Plant: Purpletop Tridens
+Image: "Purpletop_Tridens_Leaves.jpg"
+Shapes: LI
+Description: Alternate, shallowly grooved or flat, rough to the touch, 45cm long and 0.1cm wide
+
+Plant: Queen Anne's Lace
+Image: "Queen_Annes_Lace_Leaves.jpg"
+Shapes: LB
+Description: Alternate, triangular, 15cm long
+
+Plant: Raspberry
+Image: "Raspberry_Berries_Leaves.jpg"
+Shapes: CP
+Description: Alternate, 3-7 leaflets
+
+Plant: Redstem Filaree
+Image: "None.jpg"
+Shapes: LB
+Description: Deeply cut, nearly to midvein
+
+Plant: Reed Canary Grass
+Image: "Reed_Canary_Grass_Leaves.jpg"
+Shapes: LI
+Description: Green, attached to stem by a collar, 10-35cm long
+
+Plant: Rhubarb
+Image: "Rhubarb_Leaves.jpg"
+Shapes: HT
+Description: large, dark
+
+Plant: Ribwort Plantain
+Image: "Ribwort_Plantain_Leaves.jpg"
+Shapes: LA
+Description: toothed, 3-5 parallel veins, 2-30cm long and 0.5-3.5cm wide
+
+Plant: Round Fruited Rush
+Image: "None.jpg"
+Shapes: LI
+Description: Flat, narrow, 5-35cm long
+
+Plant: Smooth Bedstraw
+Image: "Smooth_Bedstraw_Leaves.jpg"
+Shapes: LI
+Description: Bright green, linear, whorled, 1-2.5cm long
+
+Plant: Smooth Brome
+Image: "Smooth_Brome_Leaves.jpg"
+Shapes: LI
+Description: Flat with a raised midrib underneath, 20-35cm long and 1cm wide
+
+Plant: Soybean
+Image: "Soybean_Leaves.jpg"
+Shapes: TL, OL, LA
+Description: alternate, 2-20cm long
+
+Plant: Spotted Knapweed
+Image: "Spotted_Knapweed_Leaves.jpg"
+Shapes: LB
+Description: Gray-green, alternate, pinnate with many lobes, rough bristles on edges, 15cm long
+
+Plant: Spotted Touch-Me-Not
+Image: "Spotted_Touch_Me_Not_Leaves.jpg"
+Shapes: OL
+Description: Egg shaped, wide teeth, 10cm long
+
+Plant: Softstem Bulrush
+Image:  "None.jpg"
+Shapes: LI
+Description: small at base
+
+Plant: Soft Rush
+Image: "None.jpg"
+Shapes: LI
+Description: Long, brown, at base, narrow, 15cm long
+
+Plant: Stinging Nettle
+Image: "Stinging_Nettle_Leaves.jpg"
+Shapes: DL
+Description: Stinging hairs on underside, opposite, deeply toothed, 3-15cm long
+
+Plant: Swamp Loosestrife
+Image: "None.jpg"
+Shapes: LA
+Description: Hairy, opposite, 20cm long
+
+Plant: Tall Fescue
+Image: "None.jpg"
+Shapes: LI
+Description: Attached to stem by white collar, 10-60cm long
+
+Plant: Tatarian Honeysuckle
+Image: "Tatarian_Honeysuckle_Leaves_Berries.jpg"
+Shapes: DL
+Description: Opposite, egg shaped, hairy
+
+Plant: Timothy
+Image: "Timothy_Leaves.jpg"
+Shapes: LA
+Description: Rolled at bud, sheath fused around stem, hairless, 43cm long and 1.5cm wide
+
+Plant: Velvet Grass
+Image: "Velvet_Grass_Leaves.jpg"
+Shapes: LI
+Description: Only a few, covered in soft hairs, 4-20cm long and narrow
+
+Plant: Virginia Creeper
+Image: "Virginia_Creeper_Leaves.jpg"
+Shapes: CP
+Description: in groups of 5, toothed margins, alternate, 3-20cm across
+
+Plant: Wartweed
+Image: "Wartweed_Leaves_Flowers.jpg"
+Shapes: OL
+Description: Oval-acute, smooth margin, 1-3cm long
+
+Plant: White Sweet Clover
+Image: "White_Sweet_Clover_Leaves.jpg"
+Shapes: OL
+Description: alternate, trifoliate
+
+Plant: White Turtlehead
+Image: "White_Turtlehead_Leaves.jpg"
+Shapes: LA
+Description: Narrow, spiked, 20cm long
+
+Plant: Wild Grape
+Image: "Wild_Grape_Leaves_Grapes.jpg"
+Shapes: HT
+Description: alternate, long tips
+
+Plant: Wild Parsnip
+Image: "Wild_Parsnip_Leaves.jpg"
+Shapes: OL
+Description: Broad, hairless, ovate, paired
+
+Plant: Wild Strawberry
+Image: "Wild_Strawberry_Leaves.jpg"
+Shapes: TL, OL
+Description: Toothed margins, smooth, trifoliate
+
+Plant: Winterberry
+Image: "Winterberry_Leaves_Berries.jpg"
+Shapes: OL
+Description: Dark green, alternate, serrated, 5-8cm long and 1.5-3.5cm wide
+
+Plant: Wormseed
+Image: "Wormseed_Leaves.jpg"
+Shapes: OB, LA
+Description: 12cm long
+
+Plant: Yellow Archangel
+Image: "Yellow_Archangel_Leaves.jpg"
+Shapes: OL
+Description: Paired, opposite, large broad oval, toothed margins, underside often purplish
+
+Plant: Yellow Hawkweed
+Image: "Yellow_Hawkweed_Leaves.jpg"
+Shapes: OL
+Description: Long, narrow, hairy, mostly at base with some growing on stems
+
+Plant: Yellow Iris
+Image: "None.jpg"
+Shapes: LA
+Description: Erect, 90cm long and 3cm wide
+
+Plant: Yellow Loosestrife
+Image: "Yellow_Loosestrife_Leaves.jpg"
+Shapes: OL, LA
+Description: Whorled or opposite, ovate-lanceolate, fine hairs underneath
+
+Plant: Yellow Rocket
+Image: "Yellow_Rocket_Leaves.jpg"
+Shapes: OL
+Description: Deep green, fairly thick
+
